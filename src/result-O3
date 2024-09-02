@@ -1,0 +1,1812 @@
+Comparing ./zlib/zutil.s and ./zlib/zutil.mod.s
+Comparing ./zlib/crc32.s and ./zlib/crc32.mod.s
+Comparing ./zlib/gzread.s and ./zlib/gzread.mod.s
+Comparing ./zlib/gzlib.s and ./zlib/gzlib.mod.s
+Comparing ./zlib/uncompr.s and ./zlib/uncompr.mod.s
+Comparing ./zlib/infback.s and ./zlib/infback.mod.s
+Comparing ./zlib/inffast.s and ./zlib/inffast.mod.s
+Comparing ./zlib/gzclose.s and ./zlib/gzclose.mod.s
+Comparing ./zlib/deflate.s and ./zlib/deflate.mod.s
+Comparing ./zlib/inflate.s and ./zlib/inflate.mod.s
+Comparing ./zlib/inftrees.s and ./zlib/inftrees.mod.s
+Comparing ./zlib/adler32.s and ./zlib/adler32.mod.s
+Comparing ./zlib/compress.s and ./zlib/compress.mod.s
+Comparing ./zlib/gzwrite.s and ./zlib/gzwrite.mod.s
+Comparing ./zlib/trees.s and ./zlib/trees.mod.s
+Comparing ./spec_glcorearb.s and ./spec_glcorearb.mod.s
+Comparing ./blender_bin/release/datafiles/bmonofont.ttf.s and ./blender_bin/release/datafiles/bmonofont.ttf.mod.s
+Comparing ./blender_bin/release/datafiles/bfont.ttf.s and ./blender_bin/release/datafiles/bfont.ttf.mod.s
+Comparing ./blender_bin/release/datafiles/startup.blend.s and ./blender_bin/release/datafiles/startup.blend.mod.s
+Comparing ./blender_bin/release/datafiles/bfont.pfb.s and ./blender_bin/release/datafiles/bfont.pfb.mod.s
+Comparing ./blender_bin/source/blender/gpu/shaders/gpu_shader_material.glsl.s and ./blender_bin/source/blender/gpu/shaders/gpu_shader_material.glsl.mod.s
+Comparing ./blender_bin/source/blender/gpu/shaders/gpu_shader_vsm_store_vert.glsl.s and ./blender_bin/source/blender/gpu/shaders/gpu_shader_vsm_store_vert.glsl.mod.s
+Comparing ./blender_bin/source/blender/gpu/shaders/gpu_shader_vsm_store_frag.glsl.s and ./blender_bin/source/blender/gpu/shaders/gpu_shader_vsm_store_frag.glsl.mod.s
+Comparing ./blender_bin/source/blender/gpu/shaders/gpu_shader_sep_gaussian_blur_frag.glsl.s and ./blender_bin/source/blender/gpu/shaders/gpu_shader_sep_gaussian_blur_frag.glsl.mod.s
+Comparing ./blender_bin/source/blender/gpu/shaders/gpu_shader_simple_frag.glsl.s and ./blender_bin/source/blender/gpu/shaders/gpu_shader_simple_frag.glsl.mod.s
+Comparing ./blender_bin/source/blender/gpu/shaders/gpu_shader_simple_vert.glsl.s and ./blender_bin/source/blender/gpu/shaders/gpu_shader_simple_vert.glsl.mod.s
+Comparing ./blender_bin/source/blender/gpu/shaders/gpu_shader_sep_gaussian_blur_vert.glsl.s and ./blender_bin/source/blender/gpu/shaders/gpu_shader_sep_gaussian_blur_vert.glsl.mod.s
+Comparing ./blender_bin/source/blender/gpu/shaders/gpu_shader_vertex.glsl.s and ./blender_bin/source/blender/gpu/shaders/gpu_shader_vertex.glsl.mod.s
+Comparing ./blender_bin/source/blender/makesdna/intern/dna.s and ./blender_bin/source/blender/makesdna/intern/dna.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_render_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_render_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_smoke_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_smoke_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_lamp_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_lamp_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_nodetree_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_nodetree_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_rigidbody_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_rigidbody_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_constraint_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_constraint_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_camera_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_camera_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_world_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_world_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_sensor_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_sensor_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_meta_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_meta_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_dynamicpaint_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_dynamicpaint_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_controller_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_controller_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_object_force_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_object_force_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_key_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_key_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_packedfile_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_packedfile_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_ID_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_ID_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_actuator_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_actuator_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_mask_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_mask_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_image_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_image_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_fcurve_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_fcurve_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_animviz_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_animviz_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_color_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_color_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_lattice_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_lattice_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_particle_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_particle_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_scene_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_scene_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_cloth_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_cloth_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_brush_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_brush_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_fluidsim_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_fluidsim_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_action_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_action_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_sound_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_sound_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_main_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_main_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_speaker_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_speaker_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_boid_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_boid_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_ui_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_ui_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_test_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_test_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_group_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_group_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_animation_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_animation_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_userdef_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_userdef_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_sequencer_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_sequencer_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_screen_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_screen_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_material_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_material_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_sculpt_paint_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_sculpt_paint_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_modifier_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_modifier_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_pose_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_pose_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_timeline_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_timeline_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_linestyle_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_linestyle_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_text_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_text_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_gpencil_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_gpencil_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_mesh_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_mesh_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_object_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_object_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_space_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_space_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_property_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_property_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_rna_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_rna_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_curve_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_curve_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_wm_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_wm_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_vfont_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_vfont_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_movieclip_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_movieclip_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_texture_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_texture_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_tracking_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_tracking_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_nla_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_nla_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_context_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_context_gen.mod.s
+Comparing ./blender_bin/source/blender/makesrna/intern/rna_armature_gen.s and ./blender_bin/source/blender/makesrna/intern/rna_armature_gen.mod.s
+Comparing ./spec_backtrace.s and ./spec_backtrace.mod.s
+Comparing ./specrand/specrand.s and ./specrand/specrand.mod.s
+Comparing ./spec_jpeg.s and ./spec_jpeg.mod.s
+Comparing ./spec_ft.s and ./spec_ft.mod.s
+Comparing ./spec_gl.s and ./spec_gl.mod.s
+Comparing ./blender/intern/string/intern/STR_String.s and ./blender/intern/string/intern/STR_String.mod.s
+Comparing ./blender/intern/guardedalloc/intern/mallocn_guarded_impl.s and ./blender/intern/guardedalloc/intern/mallocn_guarded_impl.mod.s
+Comparing ./blender/intern/guardedalloc/intern/mallocn_lockfree_impl.s and ./blender/intern/guardedalloc/intern/mallocn_lockfree_impl.mod.s
+Comparing ./blender/intern/guardedalloc/intern/mallocn.s and ./blender/intern/guardedalloc/intern/mallocn.mod.s
+Comparing ./blender/intern/mikktspace/mikktspace.s and ./blender/intern/mikktspace/mikktspace.mod.s
+Comparing ./blender/intern/raskter/raskter.s and ./blender/intern/raskter/raskter.mod.s
+Comparing ./blender/intern/opencolorio/ocio_capi.s and ./blender/intern/opencolorio/ocio_capi.mod.s
+Comparing ./blender/intern/opencolorio/fallback_impl.s and ./blender/intern/opencolorio/fallback_impl.mod.s
+Comparing ./blender/intern/glew-mx/intern/glew-mx.s and ./blender/intern/glew-mx/intern/glew-mx.mod.s
+Comparing ./blender/intern/memutil/intern/MEM_RefCountedC-Api.s and ./blender/intern/memutil/intern/MEM_RefCountedC-Api.mod.s
+Comparing ./blender/intern/memutil/intern/MEM_CacheLimiterC-Api.s and ./blender/intern/memutil/intern/MEM_CacheLimiterC-Api.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_C-api.s and ./blender/intern/ghost/intern/GHOST_C-api.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_Rect.s and ./blender/intern/ghost/intern/GHOST_Rect.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_System.s and ./blender/intern/ghost/intern/GHOST_System.mod.s
+Comparing ./blender/intern/ghost/intern/SPEC_SystemPathsSelect.s and ./blender/intern/ghost/intern/SPEC_SystemPathsSelect.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_Context.s and ./blender/intern/ghost/intern/GHOST_Context.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_ContextNone.s and ./blender/intern/ghost/intern/GHOST_ContextNone.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_TimerManager.s and ./blender/intern/ghost/intern/GHOST_TimerManager.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_ISystemPaths.s and ./blender/intern/ghost/intern/GHOST_ISystemPaths.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_CallbackEventConsumer.s and ./blender/intern/ghost/intern/GHOST_CallbackEventConsumer.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_ISystem.s and ./blender/intern/ghost/intern/GHOST_ISystem.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_ModifierKeys.s and ./blender/intern/ghost/intern/GHOST_ModifierKeys.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_WindowManager.s and ./blender/intern/ghost/intern/GHOST_WindowManager.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_Window.s and ./blender/intern/ghost/intern/GHOST_Window.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_Path-api.s and ./blender/intern/ghost/intern/GHOST_Path-api.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_EventManager.s and ./blender/intern/ghost/intern/GHOST_EventManager.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_DisplayManager.s and ./blender/intern/ghost/intern/GHOST_DisplayManager.mod.s
+Comparing ./blender/intern/ghost/intern/GHOST_Buttons.s and ./blender/intern/ghost/intern/GHOST_Buttons.mod.s
+Comparing ./blender/source/blender/blenloader/intern/versioning_270.s and ./blender/source/blender/blenloader/intern/versioning_270.mod.s
+Comparing ./blender/source/blender/blenloader/intern/versioning_250.s and ./blender/source/blender/blenloader/intern/versioning_250.mod.s
+Comparing ./blender/source/blender/blenloader/intern/readfile.s and ./blender/source/blender/blenloader/intern/readfile.mod.s
+Comparing ./blender/source/blender/blenloader/intern/versioning_260.s and ./blender/source/blender/blenloader/intern/versioning_260.mod.s
+Comparing ./blender/source/blender/blenloader/intern/readblenentry.s and ./blender/source/blender/blenloader/intern/readblenentry.mod.s
+Comparing ./blender/source/blender/blenloader/intern/writefile.s and ./blender/source/blender/blenloader/intern/writefile.mod.s
+Comparing ./blender/source/blender/blenloader/intern/undofile.s and ./blender/source/blender/blenloader/intern/undofile.mod.s
+Comparing ./blender/source/blender/blenloader/intern/versioning_legacy.s and ./blender/source/blender/blenloader/intern/versioning_legacy.mod.s
+Comparing ./blender/source/blender/blenloader/intern/versioning_defaults.s and ./blender/source/blender/blenloader/intern/versioning_defaults.mod.s
+Comparing ./blender/source/blender/blenloader/intern/runtime.s and ./blender/source/blender/blenloader/intern/runtime.mod.s
+Comparing ./blender/source/blender/gpu/intern/gpu_material.s and ./blender/source/blender/gpu/intern/gpu_material.mod.s
+Comparing ./blender/source/blender/gpu/intern/gpu_extensions.s and ./blender/source/blender/gpu/intern/gpu_extensions.mod.s
+Comparing ./blender/source/blender/gpu/intern/gpu_codegen.s and ./blender/source/blender/gpu/intern/gpu_codegen.mod.s
+Comparing ./blender/source/blender/gpu/intern/gpu_init_exit.s and ./blender/source/blender/gpu/intern/gpu_init_exit.mod.s
+Comparing ./blender/source/blender/gpu/intern/gpu_simple_shader.s and ./blender/source/blender/gpu/intern/gpu_simple_shader.mod.s
+Comparing ./blender/source/blender/gpu/intern/gpu_draw.s and ./blender/source/blender/gpu/intern/gpu_draw.mod.s
+Comparing ./blender/source/blender/gpu/intern/gpu_select.s and ./blender/source/blender/gpu/intern/gpu_select.mod.s
+Comparing ./blender/source/blender/gpu/intern/gpu_buffers.s and ./blender/source/blender/gpu/intern/gpu_buffers.mod.s
+Comparing ./blender/source/blender/makesdna/intern/dna_genfile.s and ./blender/source/blender/makesdna/intern/dna_genfile.mod.s
+Comparing ./blender/source/blender/render/intern/source/rendercore.s and ./blender/source/blender/render/intern/source/rendercore.mod.s
+Comparing ./blender/source/blender/render/intern/source/shadbuf.s and ./blender/source/blender/render/intern/source/shadbuf.mod.s
+Comparing ./blender/source/blender/render/intern/source/envmap.s and ./blender/source/blender/render/intern/source/envmap.mod.s
+Comparing ./blender/source/blender/render/intern/source/imagetexture.s and ./blender/source/blender/render/intern/source/imagetexture.mod.s
+Comparing ./blender/source/blender/render/intern/source/sunsky.s and ./blender/source/blender/render/intern/source/sunsky.mod.s
+Comparing ./blender/source/blender/render/intern/source/shadeinput.s and ./blender/source/blender/render/intern/source/shadeinput.mod.s
+Comparing ./blender/source/blender/render/intern/source/pointdensity.s and ./blender/source/blender/render/intern/source/pointdensity.mod.s
+Comparing ./blender/source/blender/render/intern/source/zbuf.s and ./blender/source/blender/render/intern/source/zbuf.mod.s
+Comparing ./blender/source/blender/render/intern/source/occlusion.s and ./blender/source/blender/render/intern/source/occlusion.mod.s
+5188c5188
+< 	movq	8(%r15), %r9
+---
+> 	movq	8(%r15), %r8
+5193,5195c5193
+< 	movq	16(%r15), %r10
+< 	movq	(%r10,%rsi,8), %rdi
+< 	movslq	%ebx, %r8
+---
+> 	movslq	%ebx, %r11
+5197,5198c5195,5199
+< 	movq	-8(%r10,%r8,8), %r9
+< 	movq	%r9, (%r10,%rsi,8)
+---
+> 	leaq	-1(%r11), %rdi
+> 	movq	16(%r15), %r8
+> 	movq	(%r8,%rsi,8), %r9
+> 	movq	-8(%r8,%r11,8), %r10
+> 	movq	%r10, (%r8,%rsi,8)
+5200,5214c5201,5215
+< 	movq	%rdi, -8(%rsi,%r8,8)
+< 	movq	8(%r15), %r9
+< 	movss	(%r9,%rdx,4), %xmm1             # xmm1 = mem[0],zero,zero,zero
+< 	leaq	-3(%r8,%r8,2), %rsi
+< 	movss	(%r9,%rsi,4), %xmm2             # xmm2 = mem[0],zero,zero,zero
+< 	movss	%xmm2, (%r9,%rdx,4)
+< 	movss	%xmm1, (%r9,%rsi,4)
+< 	movss	4(%r9,%rdx,4), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	movss	4(%r9,%rsi,4), %xmm2            # xmm2 = mem[0],zero,zero,zero
+< 	movss	%xmm2, 4(%r9,%rdx,4)
+< 	movss	%xmm1, 4(%r9,%rsi,4)
+< 	movss	8(%r9,%rdx,4), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	movss	8(%r9,%rsi,4), %xmm2            # xmm2 = mem[0],zero,zero,zero
+< 	movss	%xmm2, 8(%r9,%rdx,4)
+< 	movss	%xmm1, 8(%r9,%rsi,4)
+---
+> 	movq	%r9, -8(%rsi,%r11,8)
+> 	movq	8(%r15), %r8
+> 	movss	(%r8,%rdx,4), %xmm1             # xmm1 = mem[0],zero,zero,zero
+> 	leaq	(%rdi,%rdi,2), %rsi
+> 	movss	(%r8,%rsi,4), %xmm2             # xmm2 = mem[0],zero,zero,zero
+> 	movss	%xmm2, (%r8,%rdx,4)
+> 	movss	%xmm1, (%r8,%rsi,4)
+> 	movss	4(%r8,%rdx,4), %xmm1            # xmm1 = mem[0],zero,zero,zero
+> 	movss	4(%r8,%rsi,4), %xmm2            # xmm2 = mem[0],zero,zero,zero
+> 	movss	%xmm2, 4(%r8,%rdx,4)
+> 	movss	%xmm1, 4(%r8,%rsi,4)
+> 	movss	8(%r8,%rdx,4), %xmm1            # xmm1 = mem[0],zero,zero,zero
+> 	movss	8(%r8,%rsi,4), %xmm2            # xmm2 = mem[0],zero,zero,zero
+> 	movss	%xmm2, 8(%r8,%rdx,4)
+> 	movss	%xmm1, 8(%r8,%rsi,4)
+5221c5222
+< 	leaq	(%r9,%rdx,4), %rdi
+---
+> 	leaq	(%r8,%rdx,4), %rdi
+Comparing ./blender/source/blender/render/intern/source/render_texture.s and ./blender/source/blender/render/intern/source/render_texture.mod.s
+Comparing ./blender/source/blender/render/intern/source/voxeldata.s and ./blender/source/blender/render/intern/source/voxeldata.mod.s
+Comparing ./blender/source/blender/render/intern/source/initrender.s and ./blender/source/blender/render/intern/source/initrender.mod.s
+Comparing ./blender/source/blender/render/intern/source/bake_api.s and ./blender/source/blender/render/intern/source/bake_api.mod.s
+Comparing ./blender/source/blender/render/intern/source/strand.s and ./blender/source/blender/render/intern/source/strand.mod.s
+Comparing ./blender/source/blender/render/intern/source/texture_ocean.s and ./blender/source/blender/render/intern/source/texture_ocean.mod.s
+Comparing ./blender/source/blender/render/intern/source/convertblender.s and ./blender/source/blender/render/intern/source/convertblender.mod.s
+Comparing ./blender/source/blender/render/intern/source/render_result.s and ./blender/source/blender/render/intern/source/render_result.mod.s
+Comparing ./blender/source/blender/render/intern/source/rayshade.s and ./blender/source/blender/render/intern/source/rayshade.mod.s
+Comparing ./blender/source/blender/render/intern/source/volumetric.s and ./blender/source/blender/render/intern/source/volumetric.mod.s
+Comparing ./blender/source/blender/render/intern/source/multires_bake.s and ./blender/source/blender/render/intern/source/multires_bake.mod.s
+Comparing ./blender/source/blender/render/intern/source/pixelshading.s and ./blender/source/blender/render/intern/source/pixelshading.mod.s
+Comparing ./blender/source/blender/render/intern/source/renderdatabase.s and ./blender/source/blender/render/intern/source/renderdatabase.mod.s
+Comparing ./blender/source/blender/render/intern/source/shadeoutput.s and ./blender/source/blender/render/intern/source/shadeoutput.mod.s
+Comparing ./blender/source/blender/render/intern/source/sss.s and ./blender/source/blender/render/intern/source/sss.mod.s
+Comparing ./blender/source/blender/render/intern/source/pixelblending.s and ./blender/source/blender/render/intern/source/pixelblending.mod.s
+Comparing ./blender/source/blender/render/intern/source/pipeline.s and ./blender/source/blender/render/intern/source/pipeline.mod.s
+Comparing ./blender/source/blender/render/intern/source/volume_precache.s and ./blender/source/blender/render/intern/source/volume_precache.mod.s
+Comparing ./blender/source/blender/render/intern/source/external_engine.s and ./blender/source/blender/render/intern/source/external_engine.mod.s
+Comparing ./blender/source/blender/render/intern/source/bake.s and ./blender/source/blender/render/intern/source/bake.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject_vbvh.s and ./blender/source/blender/render/intern/raytrace/rayobject_vbvh.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject_raycounter.s and ./blender/source/blender/render/intern/raytrace/rayobject_raycounter.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject.s and ./blender/source/blender/render/intern/raytrace/rayobject.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject_svbvh.s and ./blender/source/blender/render/intern/raytrace/rayobject_svbvh.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject_empty.s and ./blender/source/blender/render/intern/raytrace/rayobject_empty.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject_instance.s and ./blender/source/blender/render/intern/raytrace/rayobject_instance.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject_octree.s and ./blender/source/blender/render/intern/raytrace/rayobject_octree.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject_rtbuild.s and ./blender/source/blender/render/intern/raytrace/rayobject_rtbuild.mod.s
+Comparing ./blender/source/blender/render/intern/raytrace/rayobject_qbvh.s and ./blender/source/blender/render/intern/raytrace/rayobject_qbvh.mod.s
+Comparing ./blender/source/blender/blenfont/intern/blf_util.s and ./blender/source/blender/blenfont/intern/blf_util.mod.s
+Comparing ./blender/source/blender/blenfont/intern/blf_lang.s and ./blender/source/blender/blenfont/intern/blf_lang.mod.s
+Comparing ./blender/source/blender/blenfont/intern/blf_dir.s and ./blender/source/blender/blenfont/intern/blf_dir.mod.s
+Comparing ./blender/source/blender/blenfont/intern/blf.s and ./blender/source/blender/blenfont/intern/blf.mod.s
+Comparing ./blender/source/blender/blenfont/intern/blf_glyph.s and ./blender/source/blender/blenfont/intern/blf_glyph.mod.s
+Comparing ./blender/source/blender/blenfont/intern/blf_font.s and ./blender/source/blender/blenfont/intern/blf_font.mod.s
+Comparing ./blender/source/blender/blenfont/intern/blf_translation.s and ./blender/source/blender/blenfont/intern/blf_translation.mod.s
+Comparing ./blender/source/blender/ikplugin/intern/ikplugin_api.s and ./blender/source/blender/ikplugin/intern/ikplugin_api.mod.s
+Comparing ./blender/source/blender/editors/space_text/space_text.s and ./blender/source/blender/editors/space_text/space_text.mod.s
+Comparing ./blender/source/blender/editors/space_text/text_format_lua.s and ./blender/source/blender/editors/space_text/text_format_lua.mod.s
+Comparing ./blender/source/blender/editors/space_text/text_autocomplete.s and ./blender/source/blender/editors/space_text/text_autocomplete.mod.s
+Comparing ./blender/source/blender/editors/space_text/text_format_py.s and ./blender/source/blender/editors/space_text/text_format_py.mod.s
+Comparing ./blender/source/blender/editors/space_text/text_format.s and ./blender/source/blender/editors/space_text/text_format.mod.s
+Comparing ./blender/source/blender/editors/space_text/text_format_osl.s and ./blender/source/blender/editors/space_text/text_format_osl.mod.s
+Comparing ./blender/source/blender/editors/space_text/text_header.s and ./blender/source/blender/editors/space_text/text_header.mod.s
+Comparing ./blender/source/blender/editors/space_text/text_ops.s and ./blender/source/blender/editors/space_text/text_ops.mod.s
+Comparing ./blender/source/blender/editors/space_text/text_draw.s and ./blender/source/blender/editors/space_text/text_draw.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_extrude.s and ./blender/source/blender/editors/mesh/editmesh_extrude.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_path.s and ./blender/source/blender/editors/mesh/editmesh_path.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_select.s and ./blender/source/blender/editors/mesh/editmesh_select.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_knife_project.s and ./blender/source/blender/editors/mesh/editmesh_knife_project.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_intersect.s and ./blender/source/blender/editors/mesh/editmesh_intersect.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_tools.s and ./blender/source/blender/editors/mesh/editmesh_tools.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_loopcut.s and ./blender/source/blender/editors/mesh/editmesh_loopcut.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_inset.s and ./blender/source/blender/editors/mesh/editmesh_inset.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_bevel.s and ./blender/source/blender/editors/mesh/editmesh_bevel.mod.s
+Comparing ./blender/source/blender/editors/mesh/editface.s and ./blender/source/blender/editors/mesh/editface.mod.s
+Comparing ./blender/source/blender/editors/mesh/mesh_ops.s and ./blender/source/blender/editors/mesh/mesh_ops.mod.s
+Comparing ./blender/source/blender/editors/mesh/mesh_data.s and ./blender/source/blender/editors/mesh/mesh_data.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_rip.s and ./blender/source/blender/editors/mesh/editmesh_rip.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_add.s and ./blender/source/blender/editors/mesh/editmesh_add.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_bisect.s and ./blender/source/blender/editors/mesh/editmesh_bisect.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_utils.s and ./blender/source/blender/editors/mesh/editmesh_utils.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_knife.s and ./blender/source/blender/editors/mesh/editmesh_knife.mod.s
+Comparing ./blender/source/blender/editors/mesh/meshtools.s and ./blender/source/blender/editors/mesh/meshtools.mod.s
+Comparing ./blender/source/blender/editors/mesh/editmesh_rip_edge.s and ./blender/source/blender/editors/mesh/editmesh_rip_edge.mod.s
+Comparing ./blender/source/blender/editors/io/io_ops.s and ./blender/source/blender/editors/io/io_ops.mod.s
+Comparing ./blender/source/blender/editors/space_time/time_ops.s and ./blender/source/blender/editors/space_time/time_ops.mod.s
+Comparing ./blender/source/blender/editors/space_time/space_time.s and ./blender/source/blender/editors/space_time/space_time.mod.s
+Comparing ./blender/source/blender/editors/uvedit/uvedit_smart_stitch.s and ./blender/source/blender/editors/uvedit/uvedit_smart_stitch.mod.s
+Comparing ./blender/source/blender/editors/uvedit/uvedit_ops.s and ./blender/source/blender/editors/uvedit/uvedit_ops.mod.s
+Comparing ./blender/source/blender/editors/uvedit/uvedit_buttons.s and ./blender/source/blender/editors/uvedit/uvedit_buttons.mod.s
+Comparing ./blender/source/blender/editors/uvedit/uvedit_unwrap_ops.s and ./blender/source/blender/editors/uvedit/uvedit_unwrap_ops.mod.s
+Comparing ./blender/source/blender/editors/uvedit/uvedit_draw.s and ./blender/source/blender/editors/uvedit/uvedit_draw.mod.s
+Comparing ./blender/source/blender/editors/uvedit/uvedit_parametrizer.s and ./blender/source/blender/editors/uvedit/uvedit_parametrizer.mod.s
+Comparing ./blender/source/blender/editors/space_userpref/space_userpref.s and ./blender/source/blender/editors/space_userpref/space_userpref.mod.s
+Comparing ./blender/source/blender/editors/space_userpref/userpref_ops.s and ./blender/source/blender/editors/space_userpref/userpref_ops.mod.s
+Comparing ./blender/source/blender/editors/mask/mask_ops.s and ./blender/source/blender/editors/mask/mask_ops.mod.s
+Comparing ./blender/source/blender/editors/mask/mask_add.s and ./blender/source/blender/editors/mask/mask_add.mod.s
+Comparing ./blender/source/blender/editors/mask/mask_relationships.s and ./blender/source/blender/editors/mask/mask_relationships.mod.s
+Comparing ./blender/source/blender/editors/mask/mask_editaction.s and ./blender/source/blender/editors/mask/mask_editaction.mod.s
+Comparing ./blender/source/blender/editors/mask/mask_edit.s and ./blender/source/blender/editors/mask/mask_edit.mod.s
+Comparing ./blender/source/blender/editors/mask/mask_draw.s and ./blender/source/blender/editors/mask/mask_draw.mod.s
+Comparing ./blender/source/blender/editors/mask/mask_shapekey.s and ./blender/source/blender/editors/mask/mask_shapekey.mod.s
+Comparing ./blender/source/blender/editors/mask/mask_select.s and ./blender/source/blender/editors/mask/mask_select.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_draw.s and ./blender/source/blender/editors/space_clip/clip_draw.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_ops.s and ./blender/source/blender/editors/space_clip/clip_ops.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_buttons.s and ./blender/source/blender/editors/space_clip/clip_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_editor.s and ./blender/source/blender/editors/space_clip/clip_editor.mod.s
+Comparing ./blender/source/blender/editors/space_clip/tracking_select.s and ./blender/source/blender/editors/space_clip/tracking_select.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_graph_ops.s and ./blender/source/blender/editors/space_clip/clip_graph_ops.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_toolbar.s and ./blender/source/blender/editors/space_clip/clip_toolbar.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_dopesheet_draw.s and ./blender/source/blender/editors/space_clip/clip_dopesheet_draw.mod.s
+Comparing ./blender/source/blender/editors/space_clip/space_clip.s and ./blender/source/blender/editors/space_clip/space_clip.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_utils.s and ./blender/source/blender/editors/space_clip/clip_utils.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_graph_draw.s and ./blender/source/blender/editors/space_clip/clip_graph_draw.mod.s
+Comparing ./blender/source/blender/editors/space_clip/tracking_ops.s and ./blender/source/blender/editors/space_clip/tracking_ops.mod.s
+Comparing ./blender/source/blender/editors/space_clip/clip_dopesheet_ops.s and ./blender/source/blender/editors/space_clip/clip_dopesheet_ops.mod.s
+Comparing ./blender/source/blender/editors/render/render_update.s and ./blender/source/blender/editors/render/render_update.mod.s
+Comparing ./blender/source/blender/editors/render/render_opengl.s and ./blender/source/blender/editors/render/render_opengl.mod.s
+Comparing ./blender/source/blender/editors/render/render_internal.s and ./blender/source/blender/editors/render/render_internal.mod.s
+Comparing ./blender/source/blender/editors/render/render_view.s and ./blender/source/blender/editors/render/render_view.mod.s
+Comparing ./blender/source/blender/editors/render/render_ops.s and ./blender/source/blender/editors/render/render_ops.mod.s
+Comparing ./blender/source/blender/editors/render/render_preview.s and ./blender/source/blender/editors/render/render_preview.mod.s
+Comparing ./blender/source/blender/editors/render/render_shading.s and ./blender/source/blender/editors/render/render_shading.mod.s
+Comparing ./blender/source/blender/editors/sound/sound_ops.s and ./blender/source/blender/editors/sound/sound_ops.mod.s
+Comparing ./blender/source/blender/editors/screen/screen_ops.s and ./blender/source/blender/editors/screen/screen_ops.mod.s
+Comparing ./blender/source/blender/editors/screen/screen_context.s and ./blender/source/blender/editors/screen/screen_context.mod.s
+Comparing ./blender/source/blender/editors/screen/screen_edit.s and ./blender/source/blender/editors/screen/screen_edit.mod.s
+Comparing ./blender/source/blender/editors/screen/area.s and ./blender/source/blender/editors/screen/area.mod.s
+Comparing ./blender/source/blender/editors/screen/screendump.s and ./blender/source/blender/editors/screen/screendump.mod.s
+Comparing ./blender/source/blender/editors/screen/glutil.s and ./blender/source/blender/editors/screen/glutil.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/sculpt.s and ./blender/source/blender/editors/sculpt_paint/sculpt.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_hide.s and ./blender/source/blender/editors/sculpt_paint/paint_hide.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_undo.s and ./blender/source/blender/editors/sculpt_paint/paint_undo.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_cursor.s and ./blender/source/blender/editors/sculpt_paint/paint_cursor.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_curve.s and ./blender/source/blender/editors/sculpt_paint/paint_curve.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_vertex.s and ./blender/source/blender/editors/sculpt_paint/paint_vertex.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_mask.s and ./blender/source/blender/editors/sculpt_paint/paint_mask.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_utils.s and ./blender/source/blender/editors/sculpt_paint/paint_utils.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/sculpt_uv.s and ./blender/source/blender/editors/sculpt_paint/sculpt_uv.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_image_proj.s and ./blender/source/blender/editors/sculpt_paint/paint_image_proj.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_image.s and ./blender/source/blender/editors/sculpt_paint/paint_image.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_stroke.s and ./blender/source/blender/editors/sculpt_paint/paint_stroke.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_ops.s and ./blender/source/blender/editors/sculpt_paint/paint_ops.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/sculpt_undo.s and ./blender/source/blender/editors/sculpt_paint/sculpt_undo.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_vertex_proj.s and ./blender/source/blender/editors/sculpt_paint/paint_vertex_proj.mod.s
+Comparing ./blender/source/blender/editors/sculpt_paint/paint_image_2d.s and ./blender/source/blender/editors/sculpt_paint/paint_image_2d.mod.s
+Comparing ./blender/source/blender/editors/space_logic/logic_ops.s and ./blender/source/blender/editors/space_logic/logic_ops.mod.s
+Comparing ./blender/source/blender/editors/space_logic/space_logic.s and ./blender/source/blender/editors/space_logic/space_logic.mod.s
+Comparing ./blender/source/blender/editors/space_logic/logic_buttons.s and ./blender/source/blender/editors/space_logic/logic_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_logic/logic_window.s and ./blender/source/blender/editors/space_logic/logic_window.mod.s
+Comparing ./blender/source/blender/editors/space_info/textview.s and ./blender/source/blender/editors/space_info/textview.mod.s
+Comparing ./blender/source/blender/editors/space_info/info_draw.s and ./blender/source/blender/editors/space_info/info_draw.mod.s
+Comparing ./blender/source/blender/editors/space_info/info_report.s and ./blender/source/blender/editors/space_info/info_report.mod.s
+Comparing ./blender/source/blender/editors/space_info/info_stats.s and ./blender/source/blender/editors/space_info/info_stats.mod.s
+Comparing ./blender/source/blender/editors/space_info/space_info.s and ./blender/source/blender/editors/space_info/space_info.mod.s
+Comparing ./blender/source/blender/editors/space_info/info_ops.s and ./blender/source/blender/editors/space_info/info_ops.mod.s
+Comparing ./blender/source/blender/editors/metaball/mball_edit.s and ./blender/source/blender/editors/metaball/mball_edit.mod.s
+Comparing ./blender/source/blender/editors/metaball/mball_ops.s and ./blender/source/blender/editors/metaball/mball_ops.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_draw.s and ./blender/source/blender/editors/space_sequencer/sequencer_draw.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_ops.s and ./blender/source/blender/editors/space_sequencer/sequencer_ops.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_view.s and ./blender/source/blender/editors/space_sequencer/sequencer_view.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/space_sequencer.s and ./blender/source/blender/editors/space_sequencer/space_sequencer.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_buttons.s and ./blender/source/blender/editors/space_sequencer/sequencer_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_select.s and ./blender/source/blender/editors/space_sequencer/sequencer_select.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_add.s and ./blender/source/blender/editors/space_sequencer/sequencer_add.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_modifier.s and ./blender/source/blender/editors/space_sequencer/sequencer_modifier.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_scopes.s and ./blender/source/blender/editors/space_sequencer/sequencer_scopes.mod.s
+Comparing ./blender/source/blender/editors/space_sequencer/sequencer_edit.s and ./blender/source/blender/editors/space_sequencer/sequencer_edit.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_icons.s and ./blender/source/blender/editors/interface/interface_icons.mod.s
+Comparing ./blender/source/blender/editors/interface/interface.s and ./blender/source/blender/editors/interface/interface.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_ops.s and ./blender/source/blender/editors/interface/interface_ops.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_panel.s and ./blender/source/blender/editors/interface/interface_panel.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_eyedropper.s and ./blender/source/blender/editors/interface/interface_eyedropper.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_anim.s and ./blender/source/blender/editors/interface/interface_anim.mod.s
+Comparing ./blender/source/blender/editors/interface/view2d_ops.s and ./blender/source/blender/editors/interface/view2d_ops.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_regions.s and ./blender/source/blender/editors/interface/interface_regions.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_handlers.s and ./blender/source/blender/editors/interface/interface_handlers.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_templates.s and ./blender/source/blender/editors/interface/interface_templates.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_utils.s and ./blender/source/blender/editors/interface/interface_utils.mod.s
+Comparing ./blender/source/blender/editors/interface/resources.s and ./blender/source/blender/editors/interface/resources.mod.s
+Comparing ./blender/source/blender/editors/interface/view2d.s and ./blender/source/blender/editors/interface/view2d.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_layout.s and ./blender/source/blender/editors/interface/interface_layout.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_widgets.s and ./blender/source/blender/editors/interface/interface_widgets.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_draw.s and ./blender/source/blender/editors/interface/interface_draw.mod.s
+Comparing ./blender/source/blender/editors/interface/interface_style.s and ./blender/source/blender/editors/interface/interface_style.mod.s
+Comparing ./blender/source/blender/editors/space_graph/graph_draw.s and ./blender/source/blender/editors/space_graph/graph_draw.mod.s
+Comparing ./blender/source/blender/editors/space_graph/space_graph.s and ./blender/source/blender/editors/space_graph/space_graph.mod.s
+Comparing ./blender/source/blender/editors/space_graph/graph_edit.s and ./blender/source/blender/editors/space_graph/graph_edit.mod.s
+Comparing ./blender/source/blender/editors/space_graph/graph_select.s and ./blender/source/blender/editors/space_graph/graph_select.mod.s
+Comparing ./blender/source/blender/editors/space_graph/graph_ops.s and ./blender/source/blender/editors/space_graph/graph_ops.mod.s
+Comparing ./blender/source/blender/editors/space_graph/graph_buttons.s and ./blender/source/blender/editors/space_graph/graph_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_graph/graph_utils.s and ./blender/source/blender/editors/space_graph/graph_utils.mod.s
+Comparing ./blender/source/blender/editors/space_image/image_edit.s and ./blender/source/blender/editors/space_image/image_edit.mod.s
+Comparing ./blender/source/blender/editors/space_image/image_buttons.s and ./blender/source/blender/editors/space_image/image_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_image/image_ops.s and ./blender/source/blender/editors/space_image/image_ops.mod.s
+Comparing ./blender/source/blender/editors/space_image/space_image.s and ./blender/source/blender/editors/space_image/space_image.mod.s
+Comparing ./blender/source/blender/editors/space_image/image_draw.s and ./blender/source/blender/editors/space_image/image_draw.mod.s
+Comparing ./blender/source/blender/editors/armature/armature_skinning.s and ./blender/source/blender/editors/armature/armature_skinning.mod.s
+Comparing ./blender/source/blender/editors/armature/reeb.s and ./blender/source/blender/editors/armature/reeb.mod.s
+Comparing ./blender/source/blender/editors/armature/pose_lib.s and ./blender/source/blender/editors/armature/pose_lib.mod.s
+Comparing ./blender/source/blender/editors/armature/armature_naming.s and ./blender/source/blender/editors/armature/armature_naming.mod.s
+Comparing ./blender/source/blender/editors/armature/armature_ops.s and ./blender/source/blender/editors/armature/armature_ops.mod.s
+Comparing ./blender/source/blender/editors/armature/armature_select.s and ./blender/source/blender/editors/armature/armature_select.mod.s
+Comparing ./blender/source/blender/editors/armature/editarmature_retarget.s and ./blender/source/blender/editors/armature/editarmature_retarget.mod.s
+Comparing ./blender/source/blender/editors/armature/editarmature_generate.s and ./blender/source/blender/editors/armature/editarmature_generate.mod.s
+Comparing ./blender/source/blender/editors/armature/pose_utils.s and ./blender/source/blender/editors/armature/pose_utils.mod.s
+Comparing ./blender/source/blender/editors/armature/armature_utils.s and ./blender/source/blender/editors/armature/armature_utils.mod.s
+Comparing ./blender/source/blender/editors/armature/armature_edit.s and ./blender/source/blender/editors/armature/armature_edit.mod.s
+Comparing ./blender/source/blender/editors/armature/pose_transform.s and ./blender/source/blender/editors/armature/pose_transform.mod.s
+Comparing ./blender/source/blender/editors/armature/editarmature_sketch.s and ./blender/source/blender/editors/armature/editarmature_sketch.mod.s
+Comparing ./blender/source/blender/editors/armature/meshlaplacian.s and ./blender/source/blender/editors/armature/meshlaplacian.mod.s
+Comparing ./blender/source/blender/editors/armature/pose_edit.s and ./blender/source/blender/editors/armature/pose_edit.mod.s
+Comparing ./blender/source/blender/editors/armature/pose_slide.s and ./blender/source/blender/editors/armature/pose_slide.mod.s
+Comparing ./blender/source/blender/editors/armature/pose_select.s and ./blender/source/blender/editors/armature/pose_select.mod.s
+Comparing ./blender/source/blender/editors/armature/armature_relations.s and ./blender/source/blender/editors/armature/armature_relations.mod.s
+Comparing ./blender/source/blender/editors/armature/armature_add.s and ./blender/source/blender/editors/armature/armature_add.mod.s
+Comparing ./blender/source/blender/editors/armature/pose_group.s and ./blender/source/blender/editors/armature/pose_group.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_snap.s and ./blender/source/blender/editors/space_view3d/view3d_snap.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/drawanimviz.s and ./blender/source/blender/editors/space_view3d/drawanimviz.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_select.s and ./blender/source/blender/editors/space_view3d/view3d_select.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_ops.s and ./blender/source/blender/editors/space_view3d/view3d_ops.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_buttons.s and ./blender/source/blender/editors/space_view3d/view3d_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/space_view3d.s and ./blender/source/blender/editors/space_view3d/space_view3d.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_iterators.s and ./blender/source/blender/editors/space_view3d/view3d_iterators.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_edit.s and ./blender/source/blender/editors/space_view3d/view3d_edit.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/drawarmature.s and ./blender/source/blender/editors/space_view3d/drawarmature.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_walk.s and ./blender/source/blender/editors/space_view3d/view3d_walk.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_ruler.s and ./blender/source/blender/editors/space_view3d/view3d_ruler.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_camera_control.s and ./blender/source/blender/editors/space_view3d/view3d_camera_control.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/drawvolume.s and ./blender/source/blender/editors/space_view3d/drawvolume.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/drawobject.s and ./blender/source/blender/editors/space_view3d/drawobject.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_header.s and ./blender/source/blender/editors/space_view3d/view3d_header.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_fly.s and ./blender/source/blender/editors/space_view3d/view3d_fly.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_draw.s and ./blender/source/blender/editors/space_view3d/view3d_draw.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_project.s and ./blender/source/blender/editors/space_view3d/view3d_project.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/drawmesh.s and ./blender/source/blender/editors/space_view3d/drawmesh.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_toolbar.s and ./blender/source/blender/editors/space_view3d/view3d_toolbar.mod.s
+Comparing ./blender/source/blender/editors/space_view3d/view3d_view.s and ./blender/source/blender/editors/space_view3d/view3d_view.mod.s
+Comparing ./blender/source/blender/editors/gpencil/gpencil_edit.s and ./blender/source/blender/editors/gpencil/gpencil_edit.mod.s
+Comparing ./blender/source/blender/editors/gpencil/gpencil_undo.s and ./blender/source/blender/editors/gpencil/gpencil_undo.mod.s
+Comparing ./blender/source/blender/editors/gpencil/gpencil_paint.s and ./blender/source/blender/editors/gpencil/gpencil_paint.mod.s
+Comparing ./blender/source/blender/editors/gpencil/gpencil_ops.s and ./blender/source/blender/editors/gpencil/gpencil_ops.mod.s
+Comparing ./blender/source/blender/editors/gpencil/gpencil_buttons.s and ./blender/source/blender/editors/gpencil/gpencil_buttons.mod.s
+Comparing ./blender/source/blender/editors/gpencil/drawgpencil.s and ./blender/source/blender/editors/gpencil/drawgpencil.mod.s
+Comparing ./blender/source/blender/editors/gpencil/editaction_gpencil.s and ./blender/source/blender/editors/gpencil/editaction_gpencil.mod.s
+Comparing ./blender/source/blender/editors/curve/curve_ops.s and ./blender/source/blender/editors/curve/curve_ops.mod.s
+Comparing ./blender/source/blender/editors/curve/lorem.s and ./blender/source/blender/editors/curve/lorem.mod.s
+Comparing ./blender/source/blender/editors/curve/editfont.s and ./blender/source/blender/editors/curve/editfont.mod.s
+Comparing ./blender/source/blender/editors/curve/editcurve.s and ./blender/source/blender/editors/curve/editcurve.mod.s
+Comparing ./blender/source/blender/editors/curve/editcurve_add.s and ./blender/source/blender/editors/curve/editcurve_add.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_toolbar.s and ./blender/source/blender/editors/space_node/node_toolbar.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_templates.s and ./blender/source/blender/editors/space_node/node_templates.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_view.s and ./blender/source/blender/editors/space_node/node_view.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_buttons.s and ./blender/source/blender/editors/space_node/node_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_ops.s and ./blender/source/blender/editors/space_node/node_ops.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_draw.s and ./blender/source/blender/editors/space_node/node_draw.mod.s
+Comparing ./blender/source/blender/editors/space_node/space_node.s and ./blender/source/blender/editors/space_node/space_node.mod.s
+Comparing ./blender/source/blender/editors/space_node/drawnode.s and ./blender/source/blender/editors/space_node/drawnode.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_edit.s and ./blender/source/blender/editors/space_node/node_edit.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_select.s and ./blender/source/blender/editors/space_node/node_select.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_relationships.s and ./blender/source/blender/editors/space_node/node_relationships.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_group.s and ./blender/source/blender/editors/space_node/node_group.mod.s
+Comparing ./blender/source/blender/editors/space_node/node_add.s and ./blender/source/blender/editors/space_node/node_add.mod.s
+Comparing ./blender/source/blender/editors/object/object_lattice.s and ./blender/source/blender/editors/object/object_lattice.mod.s
+Comparing ./blender/source/blender/editors/object/object_shapekey.s and ./blender/source/blender/editors/object/object_shapekey.mod.s
+Comparing ./blender/source/blender/editors/object/object_random.s and ./blender/source/blender/editors/object/object_random.mod.s
+Comparing ./blender/source/blender/editors/object/object_transform.s and ./blender/source/blender/editors/object/object_transform.mod.s
+Comparing ./blender/source/blender/editors/object/object_group.s and ./blender/source/blender/editors/object/object_group.mod.s
+Comparing ./blender/source/blender/editors/object/object_hook.s and ./blender/source/blender/editors/object/object_hook.mod.s
+Comparing ./blender/source/blender/editors/object/object_modifier.s and ./blender/source/blender/editors/object/object_modifier.mod.s
+Comparing ./blender/source/blender/editors/object/object_relations.s and ./blender/source/blender/editors/object/object_relations.mod.s
+Comparing ./blender/source/blender/editors/object/object_bake_api.s and ./blender/source/blender/editors/object/object_bake_api.mod.s
+Comparing ./blender/source/blender/editors/object/object_add.s and ./blender/source/blender/editors/object/object_add.mod.s
+Comparing ./blender/source/blender/editors/object/object_constraint.s and ./blender/source/blender/editors/object/object_constraint.mod.s
+Comparing ./blender/source/blender/editors/object/object_select.s and ./blender/source/blender/editors/object/object_select.mod.s
+Comparing ./blender/source/blender/editors/object/object_warp.s and ./blender/source/blender/editors/object/object_warp.mod.s
+Comparing ./blender/source/blender/editors/object/object_ops.s and ./blender/source/blender/editors/object/object_ops.mod.s
+Comparing ./blender/source/blender/editors/object/object_lod.s and ./blender/source/blender/editors/object/object_lod.mod.s
+Comparing ./blender/source/blender/editors/object/object_edit.s and ./blender/source/blender/editors/object/object_edit.mod.s
+Comparing ./blender/source/blender/editors/object/object_bake.s and ./blender/source/blender/editors/object/object_bake.mod.s
+Comparing ./blender/source/blender/editors/object/object_vgroup.s and ./blender/source/blender/editors/object/object_vgroup.mod.s
+Comparing ./blender/source/blender/editors/util/numinput.s and ./blender/source/blender/editors/util/numinput.mod.s
+Comparing ./blender/source/blender/editors/util/undo.s and ./blender/source/blender/editors/util/undo.mod.s
+Comparing ./blender/source/blender/editors/util/ed_util.s and ./blender/source/blender/editors/util/ed_util.mod.s
+Comparing ./blender/source/blender/editors/util/editmode_undo.s and ./blender/source/blender/editors/util/editmode_undo.mod.s
+Comparing ./blender/source/blender/editors/util/ed_transverts.s and ./blender/source/blender/editors/util/ed_transverts.mod.s
+Comparing ./blender/source/blender/editors/animation/keyframes_draw.s and ./blender/source/blender/editors/animation/keyframes_draw.mod.s
+Comparing ./blender/source/blender/editors/animation/anim_deps.s and ./blender/source/blender/editors/animation/anim_deps.mod.s
+Comparing ./blender/source/blender/editors/animation/keyframing.s and ./blender/source/blender/editors/animation/keyframing.mod.s
+Comparing ./blender/source/blender/editors/animation/anim_ipo_utils.s and ./blender/source/blender/editors/animation/anim_ipo_utils.mod.s
+Comparing ./blender/source/blender/editors/animation/anim_channels_edit.s and ./blender/source/blender/editors/animation/anim_channels_edit.mod.s
+Comparing ./blender/source/blender/editors/animation/anim_ops.s and ./blender/source/blender/editors/animation/anim_ops.mod.s
+Comparing ./blender/source/blender/editors/animation/anim_markers.s and ./blender/source/blender/editors/animation/anim_markers.mod.s
+Comparing ./blender/source/blender/editors/animation/keyframes_general.s and ./blender/source/blender/editors/animation/keyframes_general.mod.s
+Comparing ./blender/source/blender/editors/animation/anim_draw.s and ./blender/source/blender/editors/animation/anim_draw.mod.s
+Comparing ./blender/source/blender/editors/animation/keyframes_edit.s and ./blender/source/blender/editors/animation/keyframes_edit.mod.s
+Comparing ./blender/source/blender/editors/animation/anim_filter.s and ./blender/source/blender/editors/animation/anim_filter.mod.s
+Comparing ./blender/source/blender/editors/animation/keyingsets.s and ./blender/source/blender/editors/animation/keyingsets.mod.s
+Comparing ./blender/source/blender/editors/animation/anim_channels_defines.s and ./blender/source/blender/editors/animation/anim_channels_defines.mod.s
+Comparing ./blender/source/blender/editors/animation/drivers.s and ./blender/source/blender/editors/animation/drivers.mod.s
+Comparing ./blender/source/blender/editors/animation/fmodifier_ui.s and ./blender/source/blender/editors/animation/fmodifier_ui.mod.s
+Comparing ./blender/source/blender/editors/space_buttons/buttons_ops.s and ./blender/source/blender/editors/space_buttons/buttons_ops.mod.s
+Comparing ./blender/source/blender/editors/space_buttons/buttons_texture.s and ./blender/source/blender/editors/space_buttons/buttons_texture.mod.s
+Comparing ./blender/source/blender/editors/space_buttons/space_buttons.s and ./blender/source/blender/editors/space_buttons/space_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_buttons/buttons_context.s and ./blender/source/blender/editors/space_buttons/buttons_context.mod.s
+Comparing ./blender/source/blender/editors/space_action/action_edit.s and ./blender/source/blender/editors/space_action/action_edit.mod.s
+Comparing ./blender/source/blender/editors/space_action/space_action.s and ./blender/source/blender/editors/space_action/space_action.mod.s
+Comparing ./blender/source/blender/editors/space_action/action_draw.s and ./blender/source/blender/editors/space_action/action_draw.mod.s
+Comparing ./blender/source/blender/editors/space_action/action_ops.s and ./blender/source/blender/editors/space_action/action_ops.mod.s
+Comparing ./blender/source/blender/editors/space_action/action_select.s and ./blender/source/blender/editors/space_action/action_select.mod.s
+Comparing ./blender/source/blender/editors/space_nla/nla_buttons.s and ./blender/source/blender/editors/space_nla/nla_buttons.mod.s
+Comparing ./blender/source/blender/editors/space_nla/nla_select.s and ./blender/source/blender/editors/space_nla/nla_select.mod.s
+Comparing ./blender/source/blender/editors/space_nla/nla_channels.s and ./blender/source/blender/editors/space_nla/nla_channels.mod.s
+Comparing ./blender/source/blender/editors/space_nla/nla_draw.s and ./blender/source/blender/editors/space_nla/nla_draw.mod.s
+Comparing ./blender/source/blender/editors/space_nla/space_nla.s and ./blender/source/blender/editors/space_nla/space_nla.mod.s
+Comparing ./blender/source/blender/editors/space_nla/nla_edit.s and ./blender/source/blender/editors/space_nla/nla_edit.mod.s
+Comparing ./blender/source/blender/editors/space_nla/nla_ops.s and ./blender/source/blender/editors/space_nla/nla_ops.mod.s
+Comparing ./blender/source/blender/editors/space_api/spacetypes.s and ./blender/source/blender/editors/space_api/spacetypes.mod.s
+Comparing ./blender/source/blender/editors/space_outliner/outliner_select.s and ./blender/source/blender/editors/space_outliner/outliner_select.mod.s
+Comparing ./blender/source/blender/editors/space_outliner/outliner_ops.s and ./blender/source/blender/editors/space_outliner/outliner_ops.mod.s
+Comparing ./blender/source/blender/editors/space_outliner/outliner_tree.s and ./blender/source/blender/editors/space_outliner/outliner_tree.mod.s
+Comparing ./blender/source/blender/editors/space_outliner/outliner_tools.s and ./blender/source/blender/editors/space_outliner/outliner_tools.mod.s
+Comparing ./blender/source/blender/editors/space_outliner/outliner_draw.s and ./blender/source/blender/editors/space_outliner/outliner_draw.mod.s
+Comparing ./blender/source/blender/editors/space_outliner/outliner_edit.s and ./blender/source/blender/editors/space_outliner/outliner_edit.mod.s
+Comparing ./blender/source/blender/editors/space_outliner/space_outliner.s and ./blender/source/blender/editors/space_outliner/space_outliner.mod.s
+Comparing ./blender/source/blender/editors/transform/transform_conversions.s and ./blender/source/blender/editors/transform/transform_conversions.mod.s
+Comparing ./blender/source/blender/editors/transform/transform_manipulator.s and ./blender/source/blender/editors/transform/transform_manipulator.mod.s
+Comparing ./blender/source/blender/editors/transform/transform_constraints.s and ./blender/source/blender/editors/transform/transform_constraints.mod.s
+Comparing ./blender/source/blender/editors/transform/transform_orientations.s and ./blender/source/blender/editors/transform/transform_orientations.mod.s
+Comparing ./blender/source/blender/editors/transform/transform_ops.s and ./blender/source/blender/editors/transform/transform_ops.mod.s
+Comparing ./blender/source/blender/editors/transform/transform.s and ./blender/source/blender/editors/transform/transform.mod.s
+Comparing ./blender/source/blender/editors/transform/transform_generics.s and ./blender/source/blender/editors/transform/transform_generics.mod.s
+Comparing ./blender/source/blender/editors/transform/transform_snap.s and ./blender/source/blender/editors/transform/transform_snap.mod.s
+Comparing ./blender/source/blender/editors/transform/transform_input.s and ./blender/source/blender/editors/transform/transform_input.mod.s
+Comparing ./blender/source/blender/editors/space_console/console_draw.s and ./blender/source/blender/editors/space_console/console_draw.mod.s
+Comparing ./blender/source/blender/editors/space_console/console_ops.s and ./blender/source/blender/editors/space_console/console_ops.mod.s
+Comparing ./blender/source/blender/editors/space_console/space_console.s and ./blender/source/blender/editors/space_console/space_console.mod.s
+Comparing ./blender/source/blender/editors/physics/physics_ops.s and ./blender/source/blender/editors/physics/physics_ops.mod.s
+Comparing ./blender/source/blender/editors/physics/particle_edit.s and ./blender/source/blender/editors/physics/particle_edit.mod.s
+Comparing ./blender/source/blender/editors/physics/rigidbody_object.s and ./blender/source/blender/editors/physics/rigidbody_object.mod.s
+Comparing ./blender/source/blender/editors/physics/physics_fluid.s and ./blender/source/blender/editors/physics/physics_fluid.mod.s
+Comparing ./blender/source/blender/editors/physics/rigidbody_world.s and ./blender/source/blender/editors/physics/rigidbody_world.mod.s
+Comparing ./blender/source/blender/editors/physics/physics_pointcache.s and ./blender/source/blender/editors/physics/physics_pointcache.mod.s
+Comparing ./blender/source/blender/editors/physics/particle_object.s and ./blender/source/blender/editors/physics/particle_object.mod.s
+Comparing ./blender/source/blender/editors/physics/rigidbody_constraint.s and ./blender/source/blender/editors/physics/rigidbody_constraint.mod.s
+Comparing ./blender/source/blender/editors/physics/particle_boids.s and ./blender/source/blender/editors/physics/particle_boids.mod.s
+Comparing ./blender/source/blender/editors/physics/dynamicpaint_ops.s and ./blender/source/blender/editors/physics/dynamicpaint_ops.mod.s
+Comparing ./blender/source/blender/editors/space_file/fsmenu.s and ./blender/source/blender/editors/space_file/fsmenu.mod.s
+Comparing ./blender/source/blender/editors/space_file/space_file.s and ./blender/source/blender/editors/space_file/space_file.mod.s
+Comparing ./blender/source/blender/editors/space_file/filelist.s and ./blender/source/blender/editors/space_file/filelist.mod.s
+Comparing ./blender/source/blender/editors/space_file/filesel.s and ./blender/source/blender/editors/space_file/filesel.mod.s
+Comparing ./blender/source/blender/editors/space_file/file_panels.s and ./blender/source/blender/editors/space_file/file_panels.mod.s
+Comparing ./blender/source/blender/editors/space_file/file_draw.s and ./blender/source/blender/editors/space_file/file_draw.mod.s
+Comparing ./blender/source/blender/editors/space_file/file_ops.s and ./blender/source/blender/editors/space_file/file_ops.mod.s
+Comparing ./blender/source/blender/editors/space_script/script_ops.s and ./blender/source/blender/editors/space_script/script_ops.mod.s
+Comparing ./blender/source/blender/editors/space_script/space_script.s and ./blender/source/blender/editors/space_script/space_script.mod.s
+Comparing ./blender/source/blender/editors/space_script/script_edit.s and ./blender/source/blender/editors/space_script/script_edit.mod.s
+Comparing ./blender/source/blender/makesrna/intern/rna_access.s and ./blender/source/blender/makesrna/intern/rna_access.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_dragdrop.s and ./blender/source/blender/windowmanager/intern/wm_dragdrop.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_operators.s and ./blender/source/blender/windowmanager/intern/wm_operators.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_playanim.s and ./blender/source/blender/windowmanager/intern/wm_playanim.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_event_system.s and ./blender/source/blender/windowmanager/intern/wm_event_system.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_draw.s and ./blender/source/blender/windowmanager/intern/wm_draw.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_files.s and ./blender/source/blender/windowmanager/intern/wm_files.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_cursors.s and ./blender/source/blender/windowmanager/intern/wm_cursors.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_init_exit.s and ./blender/source/blender/windowmanager/intern/wm_init_exit.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm.s and ./blender/source/blender/windowmanager/intern/wm.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_subwindow.s and ./blender/source/blender/windowmanager/intern/wm_subwindow.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_window.s and ./blender/source/blender/windowmanager/intern/wm_window.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_keymap.s and ./blender/source/blender/windowmanager/intern/wm_keymap.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_gesture.s and ./blender/source/blender/windowmanager/intern/wm_gesture.mod.s
+Comparing ./blender/source/blender/windowmanager/intern/wm_jobs.s and ./blender/source/blender/windowmanager/intern/wm_jobs.mod.s
+Comparing ./blender/source/blender/imbuf/intern/allocimbuf.s and ./blender/source/blender/imbuf/intern/allocimbuf.mod.s
+Comparing ./blender/source/blender/imbuf/intern/metadata.s and ./blender/source/blender/imbuf/intern/metadata.mod.s
+Comparing ./blender/source/blender/imbuf/intern/cache.s and ./blender/source/blender/imbuf/intern/cache.mod.s
+Comparing ./blender/source/blender/imbuf/intern/rectop.s and ./blender/source/blender/imbuf/intern/rectop.mod.s
+Comparing ./blender/source/blender/imbuf/intern/moviecache.s and ./blender/source/blender/imbuf/intern/moviecache.mod.s
+Comparing ./blender/source/blender/imbuf/intern/indexer_dv.s and ./blender/source/blender/imbuf/intern/indexer_dv.mod.s
+Comparing ./blender/source/blender/imbuf/intern/png.s and ./blender/source/blender/imbuf/intern/png.mod.s
+Comparing ./blender/source/blender/imbuf/intern/divers.s and ./blender/source/blender/imbuf/intern/divers.mod.s
+Comparing ./blender/source/blender/imbuf/intern/filetype.s and ./blender/source/blender/imbuf/intern/filetype.mod.s
+Comparing ./blender/source/blender/imbuf/intern/thumbs_blend.s and ./blender/source/blender/imbuf/intern/thumbs_blend.mod.s
+Comparing ./blender/source/blender/imbuf/intern/util.s and ./blender/source/blender/imbuf/intern/util.mod.s
+Comparing ./blender/source/blender/imbuf/intern/imageprocess.s and ./blender/source/blender/imbuf/intern/imageprocess.mod.s
+Comparing ./blender/source/blender/imbuf/intern/openexr/openexr_stub.s and ./blender/source/blender/imbuf/intern/openexr/openexr_stub.mod.s
+Comparing ./blender/source/blender/imbuf/intern/targa.s and ./blender/source/blender/imbuf/intern/targa.mod.s
+Comparing ./blender/source/blender/imbuf/intern/jpeg.s and ./blender/source/blender/imbuf/intern/jpeg.mod.s
+Comparing ./blender/source/blender/imbuf/intern/thumbs.s and ./blender/source/blender/imbuf/intern/thumbs.mod.s
+Comparing ./blender/source/blender/imbuf/intern/module.s and ./blender/source/blender/imbuf/intern/module.mod.s
+Comparing ./blender/source/blender/imbuf/intern/bmp.s and ./blender/source/blender/imbuf/intern/bmp.mod.s
+Comparing ./blender/source/blender/imbuf/intern/readimage.s and ./blender/source/blender/imbuf/intern/readimage.mod.s
+Comparing ./blender/source/blender/imbuf/intern/iris.s and ./blender/source/blender/imbuf/intern/iris.mod.s
+Comparing ./blender/source/blender/imbuf/intern/writeimage.s and ./blender/source/blender/imbuf/intern/writeimage.mod.s
+Comparing ./blender/source/blender/imbuf/intern/colormanagement.s and ./blender/source/blender/imbuf/intern/colormanagement.mod.s
+Comparing ./blender/source/blender/imbuf/intern/filter.s and ./blender/source/blender/imbuf/intern/filter.mod.s
+Comparing ./blender/source/blender/imbuf/intern/rotate.s and ./blender/source/blender/imbuf/intern/rotate.mod.s
+Comparing ./blender/source/blender/imbuf/intern/scaling.s and ./blender/source/blender/imbuf/intern/scaling.mod.s
+Comparing ./blender/source/blender/imbuf/intern/indexer.s and ./blender/source/blender/imbuf/intern/indexer.mod.s
+Comparing ./blender/source/blender/imbuf/intern/anim_movie.s and ./blender/source/blender/imbuf/intern/anim_movie.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_geom_inline.s and ./blender/source/blender/blenlib/intern/math_geom_inline.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_interp.s and ./blender/source/blender/blenlib/intern/math_interp.mod.s
+Comparing ./blender/source/blender/blenlib/intern/gsqueue.s and ./blender/source/blender/blenlib/intern/gsqueue.mod.s
+Comparing ./blender/source/blender/blenlib/intern/voxel.s and ./blender/source/blender/blenlib/intern/voxel.mod.s
+Comparing ./blender/source/blender/blenlib/intern/threads.s and ./blender/source/blender/blenlib/intern/threads.mod.s
+Comparing ./blender/source/blender/blenlib/intern/time.s and ./blender/source/blender/blenlib/intern/time.mod.s
+Comparing ./blender/source/blender/blenlib/intern/task.s and ./blender/source/blender/blenlib/intern/task.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_color_inline.s and ./blender/source/blender/blenlib/intern/math_color_inline.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_memarena.s and ./blender/source/blender/blenlib/intern/BLI_memarena.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_base_inline.s and ./blender/source/blender/blenlib/intern/math_base_inline.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_dynstr.s and ./blender/source/blender/blenlib/intern/BLI_dynstr.mod.s
+Comparing ./blender/source/blender/blenlib/intern/quadric.s and ./blender/source/blender/blenlib/intern/quadric.mod.s
+Comparing ./blender/source/blender/blenlib/intern/string_utf8.s and ./blender/source/blender/blenlib/intern/string_utf8.mod.s
+Comparing ./blender/source/blender/blenlib/intern/storage.s and ./blender/source/blender/blenlib/intern/storage.mod.s
+Comparing ./blender/source/blender/blenlib/intern/DLRB_tree.s and ./blender/source/blender/blenlib/intern/DLRB_tree.mod.s
+Comparing ./blender/source/blender/blenlib/intern/polyfill2d.s and ./blender/source/blender/blenlib/intern/polyfill2d.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_mempool.s and ./blender/source/blender/blenlib/intern/BLI_mempool.mod.s
+Comparing ./blender/source/blender/blenlib/intern/rand.s and ./blender/source/blender/blenlib/intern/rand.mod.s
+Comparing ./blender/source/blender/blenlib/intern/sort.s and ./blender/source/blender/blenlib/intern/sort.mod.s
+Comparing ./blender/source/blender/blenlib/intern/freetypefont.s and ./blender/source/blender/blenlib/intern/freetypefont.mod.s
+Comparing ./blender/source/blender/blenlib/intern/rct.s and ./blender/source/blender/blenlib/intern/rct.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_linklist.s and ./blender/source/blender/blenlib/intern/BLI_linklist.mod.s
+Comparing ./blender/source/blender/blenlib/intern/sort_utils.s and ./blender/source/blender/blenlib/intern/sort_utils.mod.s
+Comparing ./blender/source/blender/blenlib/intern/buffer.s and ./blender/source/blender/blenlib/intern/buffer.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_kdtree.s and ./blender/source/blender/blenlib/intern/BLI_kdtree.mod.s
+Comparing ./blender/source/blender/blenlib/intern/callbacks.s and ./blender/source/blender/blenlib/intern/callbacks.mod.s
+Comparing ./blender/source/blender/blenlib/intern/lasso.s and ./blender/source/blender/blenlib/intern/lasso.mod.s
+Comparing ./blender/source/blender/blenlib/intern/uvproject.s and ./blender/source/blender/blenlib/intern/uvproject.mod.s
+Comparing ./blender/source/blender/blenlib/intern/edgehash.s and ./blender/source/blender/blenlib/intern/edgehash.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_color.s and ./blender/source/blender/blenlib/intern/math_color.mod.s
+Comparing ./blender/source/blender/blenlib/intern/timecode.s and ./blender/source/blender/blenlib/intern/timecode.mod.s
+Comparing ./blender/source/blender/blenlib/intern/convexhull2d.s and ./blender/source/blender/blenlib/intern/convexhull2d.mod.s
+Comparing ./blender/source/blender/blenlib/intern/fileops.s and ./blender/source/blender/blenlib/intern/fileops.mod.s
+Comparing ./blender/source/blender/blenlib/intern/voronoi.s and ./blender/source/blender/blenlib/intern/voronoi.mod.s
+Comparing ./blender/source/blender/blenlib/intern/string_cursor_utf8.s and ./blender/source/blender/blenlib/intern/string_cursor_utf8.mod.s
+Comparing ./blender/source/blender/blenlib/intern/path_util.s and ./blender/source/blender/blenlib/intern/path_util.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_args.s and ./blender/source/blender/blenlib/intern/BLI_args.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_dial.s and ./blender/source/blender/blenlib/intern/BLI_dial.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_vector.s and ./blender/source/blender/blenlib/intern/math_vector.mod.s
+Comparing ./blender/source/blender/blenlib/intern/system.s and ./blender/source/blender/blenlib/intern/system.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_array.s and ./blender/source/blender/blenlib/intern/BLI_array.mod.s
+Comparing ./blender/source/blender/blenlib/intern/graph.s and ./blender/source/blender/blenlib/intern/graph.mod.s
+Comparing ./blender/source/blender/blenlib/intern/listbase.s and ./blender/source/blender/blenlib/intern/listbase.mod.s
+Comparing ./blender/source/blender/blenlib/intern/jitter.s and ./blender/source/blender/blenlib/intern/jitter.mod.s
+Comparing ./blender/source/blender/blenlib/intern/smallhash.s and ./blender/source/blender/blenlib/intern/smallhash.mod.s
+Comparing ./blender/source/blender/blenlib/intern/stack.s and ./blender/source/blender/blenlib/intern/stack.mod.s
+Comparing ./blender/source/blender/blenlib/intern/noise.s and ./blender/source/blender/blenlib/intern/noise.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_kdopbvh.s and ./blender/source/blender/blenlib/intern/BLI_kdopbvh.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_heap.s and ./blender/source/blender/blenlib/intern/BLI_heap.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_matrix.s and ./blender/source/blender/blenlib/intern/math_matrix.mod.s
+Comparing ./blender/source/blender/blenlib/intern/easing.s and ./blender/source/blender/blenlib/intern/easing.mod.s
+Comparing ./blender/source/blender/blenlib/intern/string.s and ./blender/source/blender/blenlib/intern/string.mod.s
+Comparing ./blender/source/blender/blenlib/intern/BLI_ghash.s and ./blender/source/blender/blenlib/intern/BLI_ghash.mod.s
+Comparing ./blender/source/blender/blenlib/intern/scanfill_utils.s and ./blender/source/blender/blenlib/intern/scanfill_utils.mod.s
+Comparing ./blender/source/blender/blenlib/intern/scanfill.s and ./blender/source/blender/blenlib/intern/scanfill.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_base.s and ./blender/source/blender/blenlib/intern/math_base.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_color_blend_inline.s and ./blender/source/blender/blenlib/intern/math_color_blend_inline.mod.s
+Comparing ./blender/source/blender/blenlib/intern/endian_switch.s and ./blender/source/blender/blenlib/intern/endian_switch.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_geom.s and ./blender/source/blender/blenlib/intern/math_geom.mod.s
+Comparing ./blender/source/blender/blenlib/intern/md5.s and ./blender/source/blender/blenlib/intern/md5.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_vector_inline.s and ./blender/source/blender/blenlib/intern/math_vector_inline.mod.s
+Comparing ./blender/source/blender/blenlib/intern/boxpack2d.s and ./blender/source/blender/blenlib/intern/boxpack2d.mod.s
+Comparing ./blender/source/blender/blenlib/intern/math_rotation.s and ./blender/source/blender/blenlib/intern/math_rotation.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/bmfont.s and ./blender/source/blender/blenkernel/intern/bmfont.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/tracking_region_tracker.s and ./blender/source/blender/blenkernel/intern/tracking_region_tracker.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/nla.s and ./blender/source/blender/blenkernel/intern/nla.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/material.s and ./blender/source/blender/blenkernel/intern/material.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/sequencer.s and ./blender/source/blender/blenkernel/intern/sequencer.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/blender.s and ./blender/source/blender/blenkernel/intern/blender.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/icons.s and ./blender/source/blender/blenkernel/intern/icons.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/armature.s and ./blender/source/blender/blenkernel/intern/armature.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/anim.s and ./blender/source/blender/blenkernel/intern/anim.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/lamp.s and ./blender/source/blender/blenkernel/intern/lamp.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/freestyle.s and ./blender/source/blender/blenkernel/intern/freestyle.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/library_query.s and ./blender/source/blender/blenkernel/intern/library_query.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/customdata_file.s and ./blender/source/blender/blenkernel/intern/customdata_file.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/tracking_solver.s and ./blender/source/blender/blenkernel/intern/tracking_solver.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/mesh.s and ./blender/source/blender/blenkernel/intern/mesh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/idcode.s and ./blender/source/blender/blenkernel/intern/idcode.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/modifier.s and ./blender/source/blender/blenkernel/intern/modifier.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/multires.s and ./blender/source/blender/blenkernel/intern/multires.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/customdata.s and ./blender/source/blender/blenkernel/intern/customdata.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/pbvh.s and ./blender/source/blender/blenkernel/intern/pbvh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/editmesh.s and ./blender/source/blender/blenkernel/intern/editmesh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/ipo.s and ./blender/source/blender/blenkernel/intern/ipo.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/cdderivedmesh.s and ./blender/source/blender/blenkernel/intern/cdderivedmesh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/unit.s and ./blender/source/blender/blenkernel/intern/unit.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/pointcache.s and ./blender/source/blender/blenkernel/intern/pointcache.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/treehash.s and ./blender/source/blender/blenkernel/intern/treehash.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/mesh_evaluate.s and ./blender/source/blender/blenkernel/intern/mesh_evaluate.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/linestyle.s and ./blender/source/blender/blenkernel/intern/linestyle.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/image.s and ./blender/source/blender/blenkernel/intern/image.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/property.s and ./blender/source/blender/blenkernel/intern/property.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/object_deform.s and ./blender/source/blender/blenkernel/intern/object_deform.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/rigidbody.s and ./blender/source/blender/blenkernel/intern/rigidbody.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/bullet.s and ./blender/source/blender/blenkernel/intern/bullet.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/image_gen.s and ./blender/source/blender/blenkernel/intern/image_gen.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/boids.s and ./blender/source/blender/blenkernel/intern/boids.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/sca.s and ./blender/source/blender/blenkernel/intern/sca.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/deform.s and ./blender/source/blender/blenkernel/intern/deform.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/tracking_plane_tracker.s and ./blender/source/blender/blenkernel/intern/tracking_plane_tracker.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/mask_evaluate.s and ./blender/source/blender/blenkernel/intern/mask_evaluate.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/seqcache.s and ./blender/source/blender/blenkernel/intern/seqcache.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/bvhutils.s and ./blender/source/blender/blenkernel/intern/bvhutils.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/key.s and ./blender/source/blender/blenkernel/intern/key.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/library.s and ./blender/source/blender/blenkernel/intern/library.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/particle.s and ./blender/source/blender/blenkernel/intern/particle.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/packedFile.s and ./blender/source/blender/blenkernel/intern/packedFile.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/sketch.s and ./blender/source/blender/blenkernel/intern/sketch.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/seqeffects.s and ./blender/source/blender/blenkernel/intern/seqeffects.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/tracking_detect.s and ./blender/source/blender/blenkernel/intern/tracking_detect.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/mesh_validate.s and ./blender/source/blender/blenkernel/intern/mesh_validate.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/object.s and ./blender/source/blender/blenkernel/intern/object.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/fmodifier.s and ./blender/source/blender/blenkernel/intern/fmodifier.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/gpencil.s and ./blender/source/blender/blenkernel/intern/gpencil.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/softbody.s and ./blender/source/blender/blenkernel/intern/softbody.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/smoke.s and ./blender/source/blender/blenkernel/intern/smoke.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/report.s and ./blender/source/blender/blenkernel/intern/report.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/tracking_stabilize.s and ./blender/source/blender/blenkernel/intern/tracking_stabilize.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/context.s and ./blender/source/blender/blenkernel/intern/context.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/CCGSubSurf.s and ./blender/source/blender/blenkernel/intern/CCGSubSurf.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/tracking.s and ./blender/source/blender/blenkernel/intern/tracking.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/displist.s and ./blender/source/blender/blenkernel/intern/displist.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/editderivedmesh.s and ./blender/source/blender/blenkernel/intern/editderivedmesh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/cloth.s and ./blender/source/blender/blenkernel/intern/cloth.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/autoexec.s and ./blender/source/blender/blenkernel/intern/autoexec.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/constraint.s and ./blender/source/blender/blenkernel/intern/constraint.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/colortools.s and ./blender/source/blender/blenkernel/intern/colortools.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/sound.s and ./blender/source/blender/blenkernel/intern/sound.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/crazyspace.s and ./blender/source/blender/blenkernel/intern/crazyspace.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/pbvh_bmesh.s and ./blender/source/blender/blenkernel/intern/pbvh_bmesh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/anim_sys.s and ./blender/source/blender/blenkernel/intern/anim_sys.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/brush.s and ./blender/source/blender/blenkernel/intern/brush.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/texture.s and ./blender/source/blender/blenkernel/intern/texture.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/DerivedMesh.s and ./blender/source/blender/blenkernel/intern/DerivedMesh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/mesh_mapping.s and ./blender/source/blender/blenkernel/intern/mesh_mapping.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/movieclip.s and ./blender/source/blender/blenkernel/intern/movieclip.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/particle_system.s and ./blender/source/blender/blenkernel/intern/particle_system.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/speaker.s and ./blender/source/blender/blenkernel/intern/speaker.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/screen.s and ./blender/source/blender/blenkernel/intern/screen.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/camera.s and ./blender/source/blender/blenkernel/intern/camera.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/mball.s and ./blender/source/blender/blenkernel/intern/mball.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/object_dupli.s and ./blender/source/blender/blenkernel/intern/object_dupli.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/mask_rasterize.s and ./blender/source/blender/blenkernel/intern/mask_rasterize.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/bpath.s and ./blender/source/blender/blenkernel/intern/bpath.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/node.s and ./blender/source/blender/blenkernel/intern/node.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/modifiers_bmesh.s and ./blender/source/blender/blenkernel/intern/modifiers_bmesh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/group.s and ./blender/source/blender/blenkernel/intern/group.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/effect.s and ./blender/source/blender/blenkernel/intern/effect.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/idprop.s and ./blender/source/blender/blenkernel/intern/idprop.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/fcurve.s and ./blender/source/blender/blenkernel/intern/fcurve.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/seqmodifier.s and ./blender/source/blender/blenkernel/intern/seqmodifier.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/curve.s and ./blender/source/blender/blenkernel/intern/curve.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/addon.s and ./blender/source/blender/blenkernel/intern/addon.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/dynamicpaint.s and ./blender/source/blender/blenkernel/intern/dynamicpaint.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/ocean.s and ./blender/source/blender/blenkernel/intern/ocean.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/collision.s and ./blender/source/blender/blenkernel/intern/collision.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/shrinkwrap.s and ./blender/source/blender/blenkernel/intern/shrinkwrap.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/lattice.s and ./blender/source/blender/blenkernel/intern/lattice.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/implicit.s and ./blender/source/blender/blenkernel/intern/implicit.mod.s
+2638c2638
+< 	movaps	%xmm0, 432(%rsp)                # 16-byte Spill
+---
+> 	movaps	%xmm0, 416(%rsp)                # 16-byte Spill
+2668c2668
+< 	movq	%rcx, 232(%rsp)                 # 8-byte Spill
+---
+> 	movq	%rcx, 408(%rsp)                 # 8-byte Spill
+2939c2939
+< 	movaps	%xmm3, 320(%rsp)                # 16-byte Spill
+---
+> 	movaps	%xmm3, 288(%rsp)                # 16-byte Spill
+3023c3023
+< 	movq	%r9, 408(%rsp)                  # 8-byte Spill
+---
+> 	movq	%r9, 384(%rsp)                  # 8-byte Spill
+3027c3027
+< 	movq	%r8, 424(%rsp)                  # 8-byte Spill
+---
+> 	movq	%r8, 400(%rsp)                  # 8-byte Spill
+3080c3080
+< 	movaps	%xmm8, 288(%rsp)                # 16-byte Spill
+---
+> 	movaps	%xmm8, 432(%rsp)                # 16-byte Spill
+3082c3082
+< 	movaps	%xmm6, 304(%rsp)                # 16-byte Spill
+---
+> 	movaps	%xmm6, 272(%rsp)                # 16-byte Spill
+3096c3096
+< 	movaps	288(%rsp), %xmm14               # 16-byte Reload
+---
+> 	movaps	432(%rsp), %xmm14               # 16-byte Reload
+3098c3098
+< 	movaps	304(%rsp), %xmm11               # 16-byte Reload
+---
+> 	movaps	272(%rsp), %xmm11               # 16-byte Reload
+6067c6067
+< 	movq	%rcx, 400(%rsp)                 # 8-byte Spill
+---
+> 	movq	%rcx, 376(%rsp)                 # 8-byte Spill
+6090c6090
+< 	movq	%rax, 416(%rsp)                 # 8-byte Spill
+---
+> 	movq	%rax, 392(%rsp)                 # 8-byte Spill
+6100c6100
+< 	cmpq	%rdx, 416(%rsp)                 # 8-byte Folded Reload
+---
+> 	cmpq	%rdx, 392(%rsp)                 # 8-byte Folded Reload
+6102c6102
+< 	movaps	288(%rsp), %xmm14               # 16-byte Reload
+---
+> 	movaps	432(%rsp), %xmm14               # 16-byte Reload
+6135c6135
+< 	movq	%rsi, 272(%rsp)                 # 8-byte Spill
+---
+> 	movq	%rsi, 192(%rsp)                 # 8-byte Spill
+6137c6137
+< 	setl	336(%rsp)                       # 1-byte Folded Spill
+---
+> 	setl	304(%rsp)                       # 1-byte Folded Spill
+6168c6168
+< 	movq	%r8, 384(%rsp)                  # 8-byte Spill
+---
+> 	movq	%r8, 352(%rsp)                  # 8-byte Spill
+6170c6170
+< 	setns	368(%rsp)                       # 1-byte Folded Spill
+---
+> 	setns	336(%rsp)                       # 1-byte Folded Spill
+6186c6186
+< 	movq	%r12, 352(%rsp)                 # 8-byte Spill
+---
+> 	movq	%r12, 320(%rsp)                 # 8-byte Spill
+6216c6216
+< 	movq	%rcx, 192(%rsp)                 # 8-byte Spill
+---
+> 	movq	%rcx, 208(%rsp)                 # 8-byte Spill
+6219c6219
+< 	movq	%r15, 208(%rsp)                 # 8-byte Spill
+---
+> 	movq	%r15, 224(%rsp)                 # 8-byte Spill
+6265c6265
+< 	movzbl	336(%rsp), %esi                 # 1-byte Folded Reload
+---
+> 	movzbl	304(%rsp), %esi                 # 1-byte Folded Reload
+6274c6274
+< 	movq	352(%rsp), %rcx                 # 8-byte Reload
+---
+> 	movq	320(%rsp), %rcx                 # 8-byte Reload
+6277c6277
+< 	imulq	$1600, 272(%rsp), %rdi          # 8-byte Folded Reload
+---
+> 	imulq	$1600, 192(%rsp), %rdi          # 8-byte Folded Reload
+6294c6294
+< 	andb	368(%rsp), %al                  # 1-byte Folded Reload
+---
+> 	andb	336(%rsp), %al                  # 1-byte Folded Reload
+6301c6301
+< 	movq	384(%rsp), %rax                 # 8-byte Reload
+---
+> 	movq	352(%rsp), %rax                 # 8-byte Reload
+6525c6525
+< 	movq	208(%rsp), %r12                 # 8-byte Reload
+---
+> 	movq	224(%rsp), %r12                 # 8-byte Reload
+6592c6592
+< 	subss	272(%rsp), %xmm3                # 4-byte Folded Reload
+---
+> 	subss	192(%rsp), %xmm3                # 4-byte Folded Reload
+6612c6612
+< 	movq	192(%rsp), %rcx                 # 8-byte Reload
+---
+> 	movq	208(%rsp), %rcx                 # 8-byte Reload
+6715c6715
+< 	movaps	304(%rsp), %xmm11               # 16-byte Reload
+---
+> 	movaps	272(%rsp), %xmm11               # 16-byte Reload
+6826c6826
+< 	movq	208(%rsp), %r12                 # 8-byte Reload
+---
+> 	movq	224(%rsp), %r12                 # 8-byte Reload
+6837c6837
+< 	movss	%xmm6, 272(%rsp)                # 4-byte Spill
+---
+> 	movss	%xmm6, 192(%rsp)                # 4-byte Spill
+6895c6895
+< 	movaps	304(%rsp), %xmm11               # 16-byte Reload
+---
+> 	movaps	272(%rsp), %xmm11               # 16-byte Reload
+6913c6913
+< 	movq	400(%rsp), %rdi                 # 8-byte Reload
+---
+> 	movq	376(%rsp), %rdi                 # 8-byte Reload
+6924c6924
+< 	movaps	320(%rsp), %xmm5                # 16-byte Reload
+---
+> 	movaps	288(%rsp), %xmm5                # 16-byte Reload
+7107c7107
+< 	movq	232(%rsp), %rbx                 # 8-byte Reload
+---
+> 	movq	408(%rsp), %rbx                 # 8-byte Reload
+7405c7405
+< 	movq	408(%rsp), %r15                 # 8-byte Reload
+---
+> 	movq	384(%rsp), %r15                 # 8-byte Reload
+7408c7408
+< 	movaps	432(%rsp), %xmm0                # 16-byte Reload
+---
+> 	movaps	416(%rsp), %xmm0                # 16-byte Reload
+7426c7426
+< 	mulss	432(%rsp), %xmm5                # 16-byte Folded Reload
+---
+> 	mulss	416(%rsp), %xmm5                # 16-byte Folded Reload
+7699c7699
+< 	movss	%xmm0, 208(%rsp)                # 4-byte Spill
+---
+> 	movss	%xmm0, 224(%rsp)                # 4-byte Spill
+7709c7709
+< 	movss	%xmm0, 192(%rsp)                # 4-byte Spill
+---
+> 	movss	%xmm0, 208(%rsp)                # 4-byte Spill
+7718c7718
+< 	movss	192(%rsp), %xmm2                # 4-byte Reload
+---
+> 	movss	208(%rsp), %xmm2                # 4-byte Reload
+7722c7722
+< 	movss	208(%rsp), %xmm1                # 4-byte Reload
+---
+> 	movss	224(%rsp), %xmm1                # 4-byte Reload
+7726,7727d7725
+< 	movss	%xmm0, 232(%rsp)                # 4-byte Spill
+< 	mulss	.LCPI3_26(%rip), %xmm0
+7728a7727,7728
+> 	mulss	.LCPI3_26(%rip), %xmm0
+> 	movss	%xmm0, 208(%rsp)                # 4-byte Spill
+7771c7771
+< 	addss	192(%rsp), %xmm1                # 4-byte Folded Reload
+---
+> 	addss	208(%rsp), %xmm1                # 4-byte Folded Reload
+7787c7787
+< 	movss	232(%rsp), %xmm1                # 4-byte Reload
+---
+> 	movss	192(%rsp), %xmm1                # 4-byte Reload
+7792c7792
+< 	movss	208(%rsp), %xmm1                # 4-byte Reload
+---
+> 	movss	224(%rsp), %xmm1                # 4-byte Reload
+7948c7948
+< 	movq	424(%rsp), %rdi                 # 8-byte Reload
+---
+> 	movq	400(%rsp), %rdi                 # 8-byte Reload
+8094a8095,8097
+> 	movss	(%rbx,%rdi), %xmm14             # xmm14 = mem[0],zero,zero,zero
+> 	movss	4(%rbx,%rdi), %xmm10            # xmm10 = mem[0],zero,zero,zero
+> 	movss	8(%rbx,%rdi), %xmm2             # xmm2 = mem[0],zero,zero,zero
+8096,8105c8099,8105
+< 	movss	(%rbx,%rdi), %xmm2              # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm2                    # xmm2 = xmm2[0],xmm0[0],xmm2[1],xmm0[1]
+< 	movlhps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0]
+< 	movaps	%xmm2, %xmm14
+< 	movaps	%xmm2, 32(%rsp)                 # 16-byte Spill
+< 	movss	188(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+< 	movss	84(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	movss	72(%rbx,%rdi), %xmm2            # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+< 	movss	60(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+---
+> 	unpcklps	%xmm0, %xmm14                   # xmm14 = xmm14[0],xmm0[0],xmm14[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm14                   # xmm14 = xmm14[0],xmm1[0]
+> 	movaps	%xmm14, 32(%rsp)                # 16-byte Spill
+> 	movss	84(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	movss	72(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	60(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+8107,8113c8107,8113
+< 	unpcklps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0],xmm3[1],xmm1[1]
+< 	movlhps	%xmm2, %xmm3                    # xmm3 = xmm3[0],xmm2[0]
+< 	movaps	%xmm3, %xmm15
+< 	movss	132(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+< 	movss	120(%rbx,%rdi), %xmm2           # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+< 	movss	108(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+---
+> 	unpcklps	%xmm0, %xmm3                    # xmm3 = xmm3[0],xmm0[0],xmm3[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0]
+> 	movaps	%xmm3, 224(%rsp)                # 16-byte Spill
+> 	movss	132(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+> 	movss	120(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	108(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+8115,8121c8115,8121
+< 	unpcklps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0],xmm3[1],xmm1[1]
+< 	movlhps	%xmm2, %xmm3                    # xmm3 = xmm3[0],xmm2[0]
+< 	movaps	%xmm3, 208(%rsp)                # 16-byte Spill
+< 	movss	180(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+< 	movss	168(%rbx,%rdi), %xmm2           # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+< 	movss	156(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+---
+> 	unpcklps	%xmm0, %xmm3                    # xmm3 = xmm3[0],xmm0[0],xmm3[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0]
+> 	movaps	%xmm3, %xmm15
+> 	movss	180(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+> 	movss	168(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	156(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+8123,8167c8123
+< 	unpcklps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0],xmm3[1],xmm1[1]
+< 	movlhps	%xmm2, %xmm3                    # xmm3 = xmm3[0],xmm2[0]
+< 	movaps	%xmm3, 304(%rsp)                # 16-byte Spill
+< 	movss	40(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	movss	8(%rbx,%rdi), %xmm3             # xmm3 = mem[0],zero,zero,zero
+< 	movss	28(%rbx,%rdi), %xmm2            # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+< 	movss	4(%rbx,%rdi), %xmm4             # xmm4 = mem[0],zero,zero,zero
+< 	movss	16(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm4                    # xmm4 = xmm4[0],xmm1[0],xmm4[1],xmm1[1]
+< 	movlhps	%xmm2, %xmm4                    # xmm4 = xmm4[0],xmm2[0]
+< 	movaps	%xmm4, %xmm8
+< 	movaps	%xmm4, 96(%rsp)                 # 16-byte Spill
+< 	movss	88(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	movss	76(%rbx,%rdi), %xmm2            # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+< 	movss	64(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	movss	52(%rbx,%rdi), %xmm4            # xmm4 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm4                    # xmm4 = xmm4[0],xmm1[0],xmm4[1],xmm1[1]
+< 	movlhps	%xmm2, %xmm4                    # xmm4 = xmm4[0],xmm2[0]
+< 	movaps	%xmm4, %xmm9
+< 	movaps	%xmm4, 64(%rsp)                 # 16-byte Spill
+< 	movss	136(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+< 	movss	124(%rbx,%rdi), %xmm2           # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+< 	movss	112(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+< 	movss	100(%rbx,%rdi), %xmm4           # xmm4 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm4                    # xmm4 = xmm4[0],xmm1[0],xmm4[1],xmm1[1]
+< 	movlhps	%xmm2, %xmm4                    # xmm4 = xmm4[0],xmm2[0]
+< 	movaps	%xmm4, %xmm10
+< 	movaps	%xmm4, 176(%rsp)                # 16-byte Spill
+< 	movss	184(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+< 	movss	172(%rbx,%rdi), %xmm2           # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+< 	movss	160(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+< 	movss	148(%rbx,%rdi), %xmm4           # xmm4 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm4                    # xmm4 = xmm4[0],xmm1[0],xmm4[1],xmm1[1]
+< 	movlhps	%xmm2, %xmm4                    # xmm4 = xmm4[0],xmm2[0]
+< 	movaps	%xmm4, %xmm11
+< 	movaps	%xmm4, 160(%rsp)                # 16-byte Spill
+< 	movss	20(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0],xmm3[1],xmm1[1]
+< 	movss	32(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	movss	44(%rbx,%rdi), %xmm2            # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm2, %xmm1                    # xmm1 = xmm1[0],xmm2[0],xmm1[1],xmm2[1]
+---
+> 	unpcklps	%xmm0, %xmm3                    # xmm3 = xmm3[0],xmm0[0],xmm3[1],xmm0[1]
+8169,8175c8125,8146
+< 	movaps	%xmm3, 192(%rsp)                # 16-byte Spill
+< 	movss	56(%rbx,%rdi), %xmm3            # xmm3 = mem[0],zero,zero,zero
+< 	movss	68(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0],xmm3[1],xmm1[1]
+< 	movss	80(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+< 	movss	92(%rbx,%rdi), %xmm2            # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm2, %xmm1                    # xmm1 = xmm1[0],xmm2[0],xmm1[1],xmm2[1]
+---
+> 	movaps	%xmm3, 208(%rsp)                # 16-byte Spill
+> 	movss	40(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	movss	28(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	16(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm10                   # xmm10 = xmm10[0],xmm0[0],xmm10[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm10                   # xmm10 = xmm10[0],xmm1[0]
+> 	movaps	%xmm10, 96(%rsp)                # 16-byte Spill
+> 	movss	88(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	movss	76(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	64(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	movss	52(%rbx,%rdi), %xmm13           # xmm13 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm13                   # xmm13 = xmm13[0],xmm0[0],xmm13[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm13                   # xmm13 = xmm13[0],xmm1[0]
+> 	movaps	%xmm13, 64(%rsp)                # 16-byte Spill
+> 	movss	136(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+> 	movss	124(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	112(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+> 	movss	100(%rbx,%rdi), %xmm3           # xmm3 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm3                    # xmm3 = xmm3[0],xmm0[0],xmm3[1],xmm0[1]
+8177,8180c8148,8173
+< 	movaps	%xmm3, 240(%rsp)                # 16-byte Spill
+< 	movss	104(%rbx,%rdi), %xmm3           # xmm3 = mem[0],zero,zero,zero
+< 	movss	116(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0],xmm3[1],xmm1[1]
+---
+> 	movaps	%xmm3, %xmm11
+> 	movaps	%xmm3, 176(%rsp)                # 16-byte Spill
+> 	movss	184(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+> 	movss	172(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	160(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+> 	movss	148(%rbx,%rdi), %xmm9           # xmm9 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm9                    # xmm9 = xmm9[0],xmm0[0],xmm9[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm9                    # xmm9 = xmm9[0],xmm1[0]
+> 	movaps	%xmm9, 160(%rsp)                # 16-byte Spill
+> 	movss	44(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	movss	32(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	20(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm2                    # xmm2 = xmm2[0],xmm0[0],xmm2[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0]
+> 	movaps	%xmm2, 240(%rsp)                # 16-byte Spill
+> 	movss	92(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	movss	80(%rbx,%rdi), %xmm1            # xmm1 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	68(%rbx,%rdi), %xmm0            # xmm0 = mem[0],zero,zero,zero
+> 	movss	56(%rbx,%rdi), %xmm2            # xmm2 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm2                    # xmm2 = xmm2[0],xmm0[0],xmm2[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0]
+> 	movaps	%xmm2, 144(%rsp)                # 16-byte Spill
+> 	movss	140(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+8182,8188c8175,8181
+< 	movss	140(%rbx,%rdi), %xmm2           # xmm2 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm2, %xmm1                    # xmm1 = xmm1[0],xmm2[0],xmm1[1],xmm2[1]
+< 	movlhps	%xmm1, %xmm3                    # xmm3 = xmm3[0],xmm1[0]
+< 	movaps	%xmm3, 144(%rsp)                # 16-byte Spill
+< 	movss	152(%rbx,%rdi), %xmm2           # xmm2 = mem[0],zero,zero,zero
+< 	movss	164(%rbx,%rdi), %xmm1           # xmm1 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+---
+> 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+> 	movss	116(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+> 	movss	104(%rbx,%rdi), %xmm2           # xmm2 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm2                    # xmm2 = xmm2[0],xmm0[0],xmm2[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0]
+> 	movaps	%xmm2, 192(%rsp)                # 16-byte Spill
+> 	movss	188(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+8190a8184,8186
+> 	movss	164(%rbx,%rdi), %xmm0           # xmm0 = mem[0],zero,zero,zero
+> 	movss	152(%rbx,%rdi), %xmm2           # xmm2 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm2                    # xmm2 = xmm2[0],xmm0[0],xmm2[1],xmm0[1]
+8238c8234
+< 	movss	-412(%rsi), %xmm12              # xmm12 = mem[0],zero,zero,zero
+---
+> 	movss	-412(%rsi), %xmm8               # xmm8 = mem[0],zero,zero,zero
+8240c8236
+< 	unpcklps	%xmm12, %xmm6                   # xmm6 = xmm6[0],xmm12[0],xmm6[1],xmm12[1]
+---
+> 	unpcklps	%xmm8, %xmm6                    # xmm6 = xmm6[0],xmm8[0],xmm6[1],xmm8[1]
+8243,8244c8239,8240
+< 	movss	-92(%rsi), %xmm12               # xmm12 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm7, %xmm12                   # xmm12 = xmm12[0],xmm7[0],xmm12[1],xmm7[1]
+---
+> 	movss	-92(%rsi), %xmm8                # xmm8 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm7, %xmm8                    # xmm8 = xmm8[0],xmm7[0],xmm8[1],xmm7[1]
+8246,8249c8242,8245
+< 	movss	-220(%rsi), %xmm13              # xmm13 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm7, %xmm13                   # xmm13 = xmm13[0],xmm7[0],xmm13[1],xmm7[1]
+< 	movlhps	%xmm12, %xmm13                  # xmm13 = xmm13[0],xmm12[0]
+< 	mulps	%xmm8, %xmm4
+---
+> 	movss	-220(%rsi), %xmm12              # xmm12 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm7, %xmm12                   # xmm12 = xmm12[0],xmm7[0],xmm12[1],xmm7[1]
+> 	movlhps	%xmm8, %xmm12                   # xmm12 = xmm12[0],xmm8[0]
+> 	mulps	%xmm10, %xmm4
+8252,8254c8248,8250
+< 	mulps	%xmm9, %xmm5
+< 	movaps	%xmm15, 288(%rsp)               # 16-byte Spill
+< 	mulps	%xmm15, %xmm1
+---
+> 	mulps	%xmm13, %xmm5
+> 	movaps	224(%rsp), %xmm14               # 16-byte Reload
+> 	mulps	%xmm14, %xmm1
+8256,8258c8252,8254
+< 	mulps	%xmm10, %xmm6
+< 	movaps	208(%rsp), %xmm14               # 16-byte Reload
+< 	mulps	%xmm14, %xmm2
+---
+> 	mulps	%xmm11, %xmm6
+> 	movaps	%xmm15, 272(%rsp)               # 16-byte Spill
+> 	mulps	%xmm15, %xmm2
+8260,8263c8256,8259
+< 	mulps	%xmm11, %xmm13
+< 	movaps	304(%rsp), %xmm8                # 16-byte Reload
+< 	mulps	%xmm8, %xmm3
+< 	addps	%xmm13, %xmm3
+---
+> 	mulps	%xmm9, %xmm12
+> 	movaps	208(%rsp), %xmm13               # 16-byte Reload
+> 	mulps	%xmm13, %xmm3
+> 	addps	%xmm12, %xmm3
+8275,8277c8271,8273
+< 	movss	-728(%rsi), %xmm11              # xmm11 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm4, %xmm11                   # xmm11 = xmm11[0],xmm4[0],xmm11[1],xmm4[1]
+< 	movlhps	%xmm5, %xmm11                   # xmm11 = xmm11[0],xmm5[0]
+---
+> 	movss	-728(%rsi), %xmm8               # xmm8 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm4, %xmm8                    # xmm8 = xmm8[0],xmm4[0],xmm8[1],xmm4[1]
+> 	movlhps	%xmm5, %xmm8                    # xmm8 = xmm8[0],xmm5[0]
+8292c8288
+< 	movaps	192(%rsp), %xmm9                # 16-byte Reload
+---
+> 	movaps	240(%rsp), %xmm9                # 16-byte Reload
+8295,8300c8291,8296
+< 	movaps	%xmm10, 352(%rsp)               # 16-byte Spill
+< 	movaps	240(%rsp), %xmm10               # 16-byte Reload
+< 	mulps	%xmm10, %xmm11
+< 	addps	%xmm1, %xmm11
+< 	movaps	%xmm11, 368(%rsp)               # 16-byte Spill
+< 	movaps	144(%rsp), %xmm11               # 16-byte Reload
+---
+> 	movaps	%xmm10, 304(%rsp)               # 16-byte Spill
+> 	movaps	144(%rsp), %xmm10               # 16-byte Reload
+> 	mulps	%xmm10, %xmm8
+> 	addps	%xmm1, %xmm8
+> 	movaps	%xmm8, 320(%rsp)                # 16-byte Spill
+> 	movaps	192(%rsp), %xmm11               # 16-byte Reload
+8303c8299
+< 	movaps	%xmm7, 384(%rsp)                # 16-byte Spill
+---
+> 	movaps	%xmm7, 336(%rsp)                # 16-byte Spill
+8306c8302
+< 	movaps	%xmm6, 272(%rsp)                # 16-byte Spill
+---
+> 	movaps	%xmm6, 352(%rsp)                # 16-byte Spill
+8352c8348
+< 	movss	-400(%rsi), %xmm12              # xmm12 = mem[0],zero,zero,zero
+---
+> 	movss	-400(%rsi), %xmm8               # xmm8 = mem[0],zero,zero,zero
+8354c8350
+< 	unpcklps	%xmm12, %xmm6                   # xmm6 = xmm6[0],xmm12[0],xmm6[1],xmm12[1]
+---
+> 	unpcklps	%xmm8, %xmm6                    # xmm6 = xmm6[0],xmm8[0],xmm6[1],xmm8[1]
+8357,8358c8353,8354
+< 	movss	-80(%rsi), %xmm12               # xmm12 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm7, %xmm12                   # xmm12 = xmm12[0],xmm7[0],xmm12[1],xmm7[1]
+---
+> 	movss	-80(%rsi), %xmm8                # xmm8 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm7, %xmm8                    # xmm8 = xmm8[0],xmm7[0],xmm8[1],xmm7[1]
+8360,8362c8356,8358
+< 	movss	-208(%rsi), %xmm13              # xmm13 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm7, %xmm13                   # xmm13 = xmm13[0],xmm7[0],xmm13[1],xmm7[1]
+< 	movlhps	%xmm12, %xmm13                  # xmm13 = xmm13[0],xmm12[0]
+---
+> 	movss	-208(%rsi), %xmm12              # xmm12 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm7, %xmm12                   # xmm12 = xmm12[0],xmm7[0],xmm12[1],xmm7[1]
+> 	movlhps	%xmm8, %xmm12                   # xmm12 = xmm12[0],xmm8[0]
+8367c8363
+< 	mulps	%xmm15, %xmm2
+---
+> 	mulps	%xmm14, %xmm2
+8370c8366
+< 	mulps	%xmm14, %xmm1
+---
+> 	mulps	%xmm15, %xmm1
+8372,8374c8368,8370
+< 	mulps	160(%rsp), %xmm13               # 16-byte Folded Reload
+< 	mulps	%xmm8, %xmm0
+< 	addps	%xmm13, %xmm0
+---
+> 	mulps	160(%rsp), %xmm12               # 16-byte Folded Reload
+> 	mulps	%xmm13, %xmm0
+> 	addps	%xmm12, %xmm0
+8379,8381c8375,8377
+< 	movss	-972(%rsi), %xmm14              # xmm14 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm4, %xmm14                   # xmm14 = xmm14[0],xmm4[0],xmm14[1],xmm4[1]
+< 	movlhps	%xmm5, %xmm14                   # xmm14 = xmm14[0],xmm5[0]
+---
+> 	movss	-972(%rsi), %xmm13              # xmm13 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm4, %xmm13                   # xmm13 = xmm13[0],xmm4[0],xmm13[1],xmm4[1]
+> 	movlhps	%xmm5, %xmm13                   # xmm13 = xmm13[0],xmm5[0]
+8386,8388c8382,8384
+< 	movss	-716(%rsi), %xmm15              # xmm15 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm4, %xmm15                   # xmm15 = xmm15[0],xmm4[0],xmm15[1],xmm4[1]
+< 	movlhps	%xmm5, %xmm15                   # xmm15 = xmm15[0],xmm5[0]
+---
+> 	movss	-716(%rsi), %xmm14              # xmm14 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm4, %xmm14                   # xmm14 = xmm14[0],xmm4[0],xmm14[1],xmm4[1]
+> 	movlhps	%xmm5, %xmm14                   # xmm14 = xmm14[0],xmm5[0]
+8393,8395c8389,8391
+< 	movss	-460(%rsi), %xmm7               # xmm7 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm4, %xmm7                    # xmm7 = xmm7[0],xmm4[0],xmm7[1],xmm4[1]
+< 	movlhps	%xmm5, %xmm7                    # xmm7 = xmm7[0],xmm5[0]
+---
+> 	movss	-460(%rsi), %xmm15              # xmm15 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm4, %xmm15                   # xmm15 = xmm15[0],xmm4[0],xmm15[1],xmm4[1]
+> 	movlhps	%xmm5, %xmm15                   # xmm15 = xmm15[0],xmm5[0]
+8403,8409c8399,8404
+< 	mulps	%xmm9, %xmm14
+< 	addps	%xmm3, %xmm14
+< 	mulps	%xmm10, %xmm15
+< 	addps	%xmm2, %xmm15
+< 	mulps	%xmm11, %xmm7
+< 	addps	%xmm1, %xmm7
+< 	movaps	%xmm7, 256(%rsp)                # 16-byte Spill
+---
+> 	mulps	%xmm9, %xmm13
+> 	addps	%xmm3, %xmm13
+> 	mulps	%xmm10, %xmm14
+> 	addps	%xmm2, %xmm14
+> 	mulps	%xmm11, %xmm15
+> 	addps	%xmm1, %xmm15
+8412c8407
+< 	movaps	%xmm6, 336(%rsp)                # 16-byte Spill
+---
+> 	movaps	%xmm6, 256(%rsp)                # 16-byte Spill
+8417,8419c8412,8414
+< 	movss	-968(%rsi), %xmm13              # xmm13 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm13                   # xmm13 = xmm13[0],xmm0[0],xmm13[1],xmm0[1]
+< 	movlhps	%xmm1, %xmm13                   # xmm13 = xmm13[0],xmm1[0]
+---
+> 	movss	-968(%rsi), %xmm12              # xmm12 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm12                   # xmm12 = xmm12[0],xmm0[0],xmm12[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm12                   # xmm12 = xmm12[0],xmm1[0]
+8424,8426c8419,8421
+< 	movss	-712(%rsi), %xmm12              # xmm12 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm12                   # xmm12 = xmm12[0],xmm0[0],xmm12[1],xmm0[1]
+< 	movlhps	%xmm1, %xmm12                   # xmm12 = xmm12[0],xmm1[0]
+---
+> 	movss	-712(%rsi), %xmm8               # xmm8 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm0, %xmm8                    # xmm8 = xmm8[0],xmm0[0],xmm8[1],xmm0[1]
+> 	movlhps	%xmm1, %xmm8                    # xmm8 = xmm8[0],xmm1[0]
+8473,8477c8468,8472
+< 	mulps	32(%rsp), %xmm13                # 16-byte Folded Reload
+< 	addps	%xmm5, %xmm13
+< 	mulps	288(%rsp), %xmm12               # 16-byte Folded Reload
+< 	addps	%xmm2, %xmm12
+< 	mulps	208(%rsp), %xmm7                # 16-byte Folded Reload
+---
+> 	mulps	32(%rsp), %xmm12                # 16-byte Folded Reload
+> 	addps	%xmm5, %xmm12
+> 	mulps	224(%rsp), %xmm8                # 16-byte Folded Reload
+> 	addps	%xmm2, %xmm8
+> 	mulps	272(%rsp), %xmm7                # 16-byte Folded Reload
+8479c8474
+< 	mulps	%xmm8, %xmm6
+---
+> 	mulps	208(%rsp), %xmm6                # 16-byte Folded Reload
+8484,8516c8479,8527
+< 	movss	-896(%rsi), %xmm0               # xmm0 = mem[0],zero,zero,zero
+< 	movss	-960(%rsi), %xmm11              # xmm11 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm11                   # xmm11 = xmm11[0],xmm0[0],xmm11[1],xmm0[1]
+< 	movlhps	%xmm1, %xmm11                   # xmm11 = xmm11[0],xmm1[0]
+< 	movss	-512(%rsi), %xmm0               # xmm0 = mem[0],zero,zero,zero
+< 	movss	-576(%rsi), %xmm1               # xmm1 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+< 	movss	-640(%rsi), %xmm0               # xmm0 = mem[0],zero,zero,zero
+< 	movss	-704(%rsi), %xmm10              # xmm10 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm10                   # xmm10 = xmm10[0],xmm0[0],xmm10[1],xmm0[1]
+< 	movlhps	%xmm1, %xmm10                   # xmm10 = xmm10[0],xmm1[0]
+< 	movss	-256(%rsi), %xmm0               # xmm0 = mem[0],zero,zero,zero
+< 	movss	-320(%rsi), %xmm1               # xmm1 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+< 	movss	-384(%rsi), %xmm0               # xmm0 = mem[0],zero,zero,zero
+< 	movss	-448(%rsi), %xmm9               # xmm9 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm9                    # xmm9 = xmm9[0],xmm0[0],xmm9[1],xmm0[1]
+< 	movlhps	%xmm1, %xmm9                    # xmm9 = xmm9[0],xmm1[0]
+< 	movss	(%rsi), %xmm0                   # xmm0 = mem[0],zero,zero,zero
+< 	movss	-64(%rsi), %xmm1                # xmm1 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm1                    # xmm1 = xmm1[0],xmm0[0],xmm1[1],xmm0[1]
+< 	movss	-128(%rsi), %xmm0               # xmm0 = mem[0],zero,zero,zero
+< 	movss	-192(%rsi), %xmm8               # xmm8 = mem[0],zero,zero,zero
+< 	unpcklps	%xmm0, %xmm8                    # xmm8 = xmm8[0],xmm0[0],xmm8[1],xmm0[1]
+< 	movlhps	%xmm1, %xmm8                    # xmm8 = xmm8[0],xmm1[0]
+< 	mulps	192(%rsp), %xmm11               # 16-byte Folded Reload
+< 	addps	%xmm13, %xmm11
+< 	mulps	240(%rsp), %xmm10               # 16-byte Folded Reload
+< 	addps	%xmm12, %xmm10
+< 	mulps	144(%rsp), %xmm9                # 16-byte Folded Reload
+< 	addps	%xmm7, %xmm9
+< 	mulps	16(%rsp), %xmm8                 # 16-byte Folded Reload
+< 	addps	%xmm6, %xmm8
+---
+> 	movss	-896(%rsi), %xmm2               # xmm2 = mem[0],zero,zero,zero
+> 	movss	-960(%rsi), %xmm0               # xmm0 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm2, %xmm0                    # xmm0 = xmm0[0],xmm2[0],xmm0[1],xmm2[1]
+> 	movlhps	%xmm1, %xmm0                    # xmm0 = xmm0[0],xmm1[0]
+> 	movss	-512(%rsi), %xmm1               # xmm1 = mem[0],zero,zero,zero
+> 	movss	-576(%rsi), %xmm2               # xmm2 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+> 	movss	-640(%rsi), %xmm1               # xmm1 = mem[0],zero,zero,zero
+> 	movss	-704(%rsi), %xmm11              # xmm11 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm1, %xmm11                   # xmm11 = xmm11[0],xmm1[0],xmm11[1],xmm1[1]
+> 	movlhps	%xmm2, %xmm11                   # xmm11 = xmm11[0],xmm2[0]
+> 	movss	-256(%rsi), %xmm1               # xmm1 = mem[0],zero,zero,zero
+> 	movss	-320(%rsi), %xmm2               # xmm2 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+> 	movss	-384(%rsi), %xmm1               # xmm1 = mem[0],zero,zero,zero
+> 	movss	-448(%rsi), %xmm10              # xmm10 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm1, %xmm10                   # xmm10 = xmm10[0],xmm1[0],xmm10[1],xmm1[1]
+> 	movlhps	%xmm2, %xmm10                   # xmm10 = xmm10[0],xmm2[0]
+> 	movss	(%rsi), %xmm1                   # xmm1 = mem[0],zero,zero,zero
+> 	movss	-64(%rsi), %xmm2                # xmm2 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm1, %xmm2                    # xmm2 = xmm2[0],xmm1[0],xmm2[1],xmm1[1]
+> 	movss	-128(%rsi), %xmm1               # xmm1 = mem[0],zero,zero,zero
+> 	movss	-192(%rsi), %xmm9               # xmm9 = mem[0],zero,zero,zero
+> 	unpcklps	%xmm1, %xmm9                    # xmm9 = xmm9[0],xmm1[0],xmm9[1],xmm1[1]
+> 	movlhps	%xmm2, %xmm9                    # xmm9 = xmm9[0],xmm2[0]
+> 	mulps	240(%rsp), %xmm0                # 16-byte Folded Reload
+> 	addps	%xmm12, %xmm0
+> 	mulps	144(%rsp), %xmm11               # 16-byte Folded Reload
+> 	addps	%xmm8, %xmm11
+> 	mulps	192(%rsp), %xmm10               # 16-byte Folded Reload
+> 	addps	%xmm7, %xmm10
+> 	mulps	16(%rsp), %xmm9                 # 16-byte Folded Reload
+> 	addps	%xmm6, %xmm9
+> 	movaps	%xmm0, %xmm1
+> 	movaps	304(%rsp), %xmm3                # 16-byte Reload
+> 	shufps	$212, %xmm3, %xmm1              # xmm1 = xmm1[0,1],xmm3[1,3]
+> 	movaps	%xmm13, %xmm2
+> 	movlhps	%xmm3, %xmm2                    # xmm2 = xmm2[0],xmm3[0]
+> 	shufps	$130, %xmm1, %xmm2              # xmm2 = xmm2[2,0],xmm1[0,2]
+> 	movaps	%xmm3, %xmm1
+> 	unpckhpd	%xmm13, %xmm1                   # xmm1 = xmm1[1],xmm13[1]
+> 	shufps	$255, %xmm13, %xmm3             # xmm3 = xmm3[3,3],xmm13[3,3]
+> 	shufps	$233, %xmm0, %xmm3              # xmm3 = xmm3[1,2],xmm0[2,3]
+> 	shufps	$85, %xmm13, %xmm0              # xmm0 = xmm0[1,1],xmm13[1,1]
+> 	shufps	$130, %xmm1, %xmm0              # xmm0 = xmm0[2,0],xmm1[0,2]
+> 	movups	%xmm0, 16(%rbx,%rdi)
+> 	shufps	$210, %xmm3, %xmm3              # xmm3 = xmm3[2,0,1,3]
+> 	movups	%xmm2, (%rbx,%rdi)
+> 	movups	%xmm3, 32(%rbx,%rdi)
+8518c8529
+< 	movaps	352(%rsp), %xmm2                # 16-byte Reload
+---
+> 	movaps	320(%rsp), %xmm2                # 16-byte Reload
+8529c8540
+< 	movups	%xmm11, 16(%rbx,%rdi)
+---
+> 	movups	%xmm11, 64(%rbx,%rdi)
+8531,8532c8542,8543
+< 	movups	%xmm1, (%rbx,%rdi)
+< 	movups	%xmm2, 32(%rbx,%rdi)
+---
+> 	movups	%xmm1, 48(%rbx,%rdi)
+> 	movups	%xmm2, 80(%rbx,%rdi)
+8534c8545
+< 	movaps	368(%rsp), %xmm2                # 16-byte Reload
+---
+> 	movaps	336(%rsp), %xmm2                # 16-byte Reload
+8545c8556
+< 	movups	%xmm10, 64(%rbx,%rdi)
+---
+> 	movups	%xmm10, 112(%rbx,%rdi)
+8547,8548c8558,8559
+< 	movups	%xmm1, 48(%rbx,%rdi)
+< 	movups	%xmm2, 80(%rbx,%rdi)
+---
+> 	movups	%xmm1, 96(%rbx,%rdi)
+> 	movups	%xmm2, 128(%rbx,%rdi)
+8550c8561
+< 	movaps	384(%rsp), %xmm2                # 16-byte Reload
+---
+> 	movaps	352(%rsp), %xmm2                # 16-byte Reload
+8562,8579c8573
+< 	movups	%xmm9, 112(%rbx,%rdi)
+< 	shufps	$210, %xmm2, %xmm2              # xmm2 = xmm2[2,0,1,3]
+< 	movups	%xmm1, 96(%rbx,%rdi)
+< 	movups	%xmm2, 128(%rbx,%rdi)
+< 	movaps	%xmm8, %xmm0
+< 	movaps	272(%rsp), %xmm2                # 16-byte Reload
+< 	shufps	$212, %xmm2, %xmm0              # xmm0 = xmm0[0,1],xmm2[1,3]
+< 	movaps	336(%rsp), %xmm3                # 16-byte Reload
+< 	movaps	%xmm3, %xmm1
+< 	movlhps	%xmm2, %xmm1                    # xmm1 = xmm1[0],xmm2[0]
+< 	shufps	$130, %xmm0, %xmm1              # xmm1 = xmm1[2,0],xmm0[0,2]
+< 	movaps	%xmm2, %xmm0
+< 	unpckhpd	%xmm3, %xmm0                    # xmm0 = xmm0[1],xmm3[1]
+< 	shufps	$255, %xmm3, %xmm2              # xmm2 = xmm2[3,3],xmm3[3,3]
+< 	shufps	$233, %xmm8, %xmm2              # xmm2 = xmm2[1,2],xmm8[2,3]
+< 	shufps	$85, %xmm3, %xmm8               # xmm8 = xmm8[1,1],xmm3[1,1]
+< 	shufps	$130, %xmm0, %xmm8              # xmm8 = xmm8[2,0],xmm0[0,2]
+< 	movups	%xmm8, 160(%rbx,%rdi)
+---
+> 	movups	%xmm9, 160(%rbx,%rdi)
+8590c8584
+< 	movaps	320(%rsp), %xmm5                # 16-byte Reload
+---
+> 	movaps	288(%rsp), %xmm5                # 16-byte Reload
+8874c8868
+< 	movaps	320(%rsp), %xmm5                # 16-byte Reload
+---
+> 	movaps	288(%rsp), %xmm5                # 16-byte Reload
+Comparing ./blender/source/blender/blenkernel/intern/tracking_util.s and ./blender/source/blender/blenkernel/intern/tracking_util.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/suggestions.s and ./blender/source/blender/blenkernel/intern/suggestions.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/scene.s and ./blender/source/blender/blenkernel/intern/scene.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/paint.s and ./blender/source/blender/blenkernel/intern/paint.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/text.s and ./blender/source/blender/blenkernel/intern/text.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/font.s and ./blender/source/blender/blenkernel/intern/font.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/depsgraph.s and ./blender/source/blender/blenkernel/intern/depsgraph.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/writeavi.s and ./blender/source/blender/blenkernel/intern/writeavi.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/action.s and ./blender/source/blender/blenkernel/intern/action.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/mask.s and ./blender/source/blender/blenkernel/intern/mask.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/editmesh_bvh.s and ./blender/source/blender/blenkernel/intern/editmesh_bvh.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/world.s and ./blender/source/blender/blenkernel/intern/world.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/subsurf_ccg.s and ./blender/source/blender/blenkernel/intern/subsurf_ccg.mod.s
+Comparing ./blender/source/blender/blenkernel/intern/fluidsim.s and ./blender/source/blender/blenkernel/intern/fluidsim.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_delete.s and ./blender/source/blender/bmesh/intern/bmesh_delete.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_log.s and ./blender/source/blender/bmesh/intern/bmesh_log.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_queries.s and ./blender/source/blender/bmesh/intern/bmesh_queries.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_mesh_conv.s and ./blender/source/blender/bmesh/intern/bmesh_mesh_conv.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_operators.s and ./blender/source/blender/bmesh/intern/bmesh_operators.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_polygon.s and ./blender/source/blender/bmesh/intern/bmesh_polygon.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_iterators.s and ./blender/source/blender/bmesh/intern/bmesh_iterators.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_walkers.s and ./blender/source/blender/bmesh/intern/bmesh_walkers.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_interp.s and ./blender/source/blender/bmesh/intern/bmesh_interp.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_mesh.s and ./blender/source/blender/bmesh/intern/bmesh_mesh.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_core.s and ./blender/source/blender/bmesh/intern/bmesh_core.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_marking.s and ./blender/source/blender/bmesh/intern/bmesh_marking.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_mods.s and ./blender/source/blender/bmesh/intern/bmesh_mods.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_structure.s and ./blender/source/blender/bmesh/intern/bmesh_structure.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_opdefines.s and ./blender/source/blender/bmesh/intern/bmesh_opdefines.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_construct.s and ./blender/source/blender/bmesh/intern/bmesh_construct.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_walkers_impl.s and ./blender/source/blender/bmesh/intern/bmesh_walkers_impl.mod.s
+Comparing ./blender/source/blender/bmesh/intern/bmesh_edgeloop.s and ./blender/source/blender/bmesh/intern/bmesh_edgeloop.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_edgenet.s and ./blender/source/blender/bmesh/tools/bmesh_edgenet.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_decimate_dissolve.s and ./blender/source/blender/bmesh/tools/bmesh_decimate_dissolve.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_intersect.s and ./blender/source/blender/bmesh/tools/bmesh_intersect.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_path.s and ./blender/source/blender/bmesh/tools/bmesh_path.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_beautify.s and ./blender/source/blender/bmesh/tools/bmesh_beautify.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_edgesplit.s and ./blender/source/blender/bmesh/tools/bmesh_edgesplit.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_bevel.s and ./blender/source/blender/bmesh/tools/bmesh_bevel.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_region_match.s and ./blender/source/blender/bmesh/tools/bmesh_region_match.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_decimate_unsubdivide.s and ./blender/source/blender/bmesh/tools/bmesh_decimate_unsubdivide.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_triangulate.s and ./blender/source/blender/bmesh/tools/bmesh_triangulate.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_decimate_collapse.s and ./blender/source/blender/bmesh/tools/bmesh_decimate_collapse.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_bisect_plane.s and ./blender/source/blender/bmesh/tools/bmesh_bisect_plane.mod.s
+Comparing ./blender/source/blender/bmesh/tools/bmesh_wireframe.s and ./blender/source/blender/bmesh/tools/bmesh_wireframe.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_create.s and ./blender/source/blender/bmesh/operators/bmo_create.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_join_triangles.s and ./blender/source/blender/bmesh/operators/bmo_join_triangles.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_normals.s and ./blender/source/blender/bmesh/operators/bmo_normals.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_beautify.s and ./blender/source/blender/bmesh/operators/bmo_beautify.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_split_edges.s and ./blender/source/blender/bmesh/operators/bmo_split_edges.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_extrude.s and ./blender/source/blender/bmesh/operators/bmo_extrude.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_triangulate.s and ./blender/source/blender/bmesh/operators/bmo_triangulate.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_connect_nonplanar.s and ./blender/source/blender/bmesh/operators/bmo_connect_nonplanar.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_connect.s and ./blender/source/blender/bmesh/operators/bmo_connect.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_subdivide_edgering.s and ./blender/source/blender/bmesh/operators/bmo_subdivide_edgering.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_primitive.s and ./blender/source/blender/bmesh/operators/bmo_primitive.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_fill_attribute.s and ./blender/source/blender/bmesh/operators/bmo_fill_attribute.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_mesh_conv.s and ./blender/source/blender/bmesh/operators/bmo_mesh_conv.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_connect_pair.s and ./blender/source/blender/bmesh/operators/bmo_connect_pair.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_subdivide.s and ./blender/source/blender/bmesh/operators/bmo_subdivide.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_dupe.s and ./blender/source/blender/bmesh/operators/bmo_dupe.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_dissolve.s and ./blender/source/blender/bmesh/operators/bmo_dissolve.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_fill_grid.s and ./blender/source/blender/bmesh/operators/bmo_fill_grid.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_fill_edgeloop.s and ./blender/source/blender/bmesh/operators/bmo_fill_edgeloop.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_utils.s and ./blender/source/blender/bmesh/operators/bmo_utils.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_wireframe.s and ./blender/source/blender/bmesh/operators/bmo_wireframe.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_bridge.s and ./blender/source/blender/bmesh/operators/bmo_bridge.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_mirror.s and ./blender/source/blender/bmesh/operators/bmo_mirror.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_bisect_plane.s and ./blender/source/blender/bmesh/operators/bmo_bisect_plane.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_smooth_laplacian.s and ./blender/source/blender/bmesh/operators/bmo_smooth_laplacian.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_inset.s and ./blender/source/blender/bmesh/operators/bmo_inset.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_similar.s and ./blender/source/blender/bmesh/operators/bmo_similar.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_fill_holes.s and ./blender/source/blender/bmesh/operators/bmo_fill_holes.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_removedoubles.s and ./blender/source/blender/bmesh/operators/bmo_removedoubles.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_unsubdivide.s and ./blender/source/blender/bmesh/operators/bmo_unsubdivide.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_bevel.s and ./blender/source/blender/bmesh/operators/bmo_bevel.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_symmetrize.s and ./blender/source/blender/bmesh/operators/bmo_symmetrize.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_poke.s and ./blender/source/blender/bmesh/operators/bmo_poke.mod.s
+Comparing ./blender/source/blender/bmesh/operators/bmo_edgenet.s and ./blender/source/blender/bmesh/operators/bmo_edgenet.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_collision.s and ./blender/source/blender/modifiers/intern/MOD_collision.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_smoke.s and ./blender/source/blender/modifiers/intern/MOD_smoke.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_screw.s and ./blender/source/blender/modifiers/intern/MOD_screw.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_weightvgedit.s and ./blender/source/blender/modifiers/intern/MOD_weightvgedit.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_solidify.s and ./blender/source/blender/modifiers/intern/MOD_solidify.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_particleinstance.s and ./blender/source/blender/modifiers/intern/MOD_particleinstance.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_boolean.s and ./blender/source/blender/modifiers/intern/MOD_boolean.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_wireframe.s and ./blender/source/blender/modifiers/intern/MOD_wireframe.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_weightvg_util.s and ./blender/source/blender/modifiers/intern/MOD_weightvg_util.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_bevel.s and ./blender/source/blender/modifiers/intern/MOD_bevel.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_cast.s and ./blender/source/blender/modifiers/intern/MOD_cast.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_array.s and ./blender/source/blender/modifiers/intern/MOD_array.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_meshcache_pc2.s and ./blender/source/blender/modifiers/intern/MOD_meshcache_pc2.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_laplaciansmooth.s and ./blender/source/blender/modifiers/intern/MOD_laplaciansmooth.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_surface.s and ./blender/source/blender/modifiers/intern/MOD_surface.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_smooth.s and ./blender/source/blender/modifiers/intern/MOD_smooth.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_hook.s and ./blender/source/blender/modifiers/intern/MOD_hook.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_remesh.s and ./blender/source/blender/modifiers/intern/MOD_remesh.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_weightvgmix.s and ./blender/source/blender/modifiers/intern/MOD_weightvgmix.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_lattice.s and ./blender/source/blender/modifiers/intern/MOD_lattice.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_softbody.s and ./blender/source/blender/modifiers/intern/MOD_softbody.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_cloth.s and ./blender/source/blender/modifiers/intern/MOD_cloth.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_subsurf.s and ./blender/source/blender/modifiers/intern/MOD_subsurf.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_shrinkwrap.s and ./blender/source/blender/modifiers/intern/MOD_shrinkwrap.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_meshcache_mdd.s and ./blender/source/blender/modifiers/intern/MOD_meshcache_mdd.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_skin.s and ./blender/source/blender/modifiers/intern/MOD_skin.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_fluidsim_util.s and ./blender/source/blender/modifiers/intern/MOD_fluidsim_util.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_fluidsim.s and ./blender/source/blender/modifiers/intern/MOD_fluidsim.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_uvwarp.s and ./blender/source/blender/modifiers/intern/MOD_uvwarp.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_build.s and ./blender/source/blender/modifiers/intern/MOD_build.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_decimate.s and ./blender/source/blender/modifiers/intern/MOD_decimate.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_laplaciandeform.s and ./blender/source/blender/modifiers/intern/MOD_laplaciandeform.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_simpledeform.s and ./blender/source/blender/modifiers/intern/MOD_simpledeform.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_ocean.s and ./blender/source/blender/modifiers/intern/MOD_ocean.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_shapekey.s and ./blender/source/blender/modifiers/intern/MOD_shapekey.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_multires.s and ./blender/source/blender/modifiers/intern/MOD_multires.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_armature.s and ./blender/source/blender/modifiers/intern/MOD_armature.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_explode.s and ./blender/source/blender/modifiers/intern/MOD_explode.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_dynamicpaint.s and ./blender/source/blender/modifiers/intern/MOD_dynamicpaint.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_warp.s and ./blender/source/blender/modifiers/intern/MOD_warp.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_weightvgproximity.s and ./blender/source/blender/modifiers/intern/MOD_weightvgproximity.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_meshcache_util.s and ./blender/source/blender/modifiers/intern/MOD_meshcache_util.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_triangulate.s and ./blender/source/blender/modifiers/intern/MOD_triangulate.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_displace.s and ./blender/source/blender/modifiers/intern/MOD_displace.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_none.s and ./blender/source/blender/modifiers/intern/MOD_none.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_util.s and ./blender/source/blender/modifiers/intern/MOD_util.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_curve.s and ./blender/source/blender/modifiers/intern/MOD_curve.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_mirror.s and ./blender/source/blender/modifiers/intern/MOD_mirror.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_mask.s and ./blender/source/blender/modifiers/intern/MOD_mask.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_meshdeform.s and ./blender/source/blender/modifiers/intern/MOD_meshdeform.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_wave.s and ./blender/source/blender/modifiers/intern/MOD_wave.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_meshcache.s and ./blender/source/blender/modifiers/intern/MOD_meshcache.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_uvproject.s and ./blender/source/blender/modifiers/intern/MOD_uvproject.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_particlesystem.s and ./blender/source/blender/modifiers/intern/MOD_particlesystem.mod.s
+Comparing ./blender/source/blender/modifiers/intern/MOD_edgesplit.s and ./blender/source/blender/modifiers/intern/MOD_edgesplit.mod.s
+Comparing ./blender/source/blender/nodes/intern/node_exec.s and ./blender/source/blender/nodes/intern/node_exec.mod.s
+Comparing ./blender/source/blender/nodes/intern/node_util.s and ./blender/source/blender/nodes/intern/node_util.mod.s
+Comparing ./blender/source/blender/nodes/intern/node_socket.s and ./blender/source/blender/nodes/intern/node_socket.mod.s
+Comparing ./blender/source/blender/nodes/intern/node_common.s and ./blender/source/blender/nodes/intern/node_common.mod.s
+Comparing ./blender/source/blender/nodes/composite/node_composite_util.s and ./blender/source/blender/nodes/composite/node_composite_util.mod.s
+Comparing ./blender/source/blender/nodes/composite/node_composite_tree.s and ./blender/source/blender/nodes/composite/node_composite_tree.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_planetrackdeform.s and ./blender/source/blender/nodes/composite/nodes/node_composite_planetrackdeform.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_invert.s and ./blender/source/blender/nodes/composite/nodes/node_composite_invert.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_colorSpill.s and ./blender/source/blender/nodes/composite/nodes/node_composite_colorSpill.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_despeckle.s and ./blender/source/blender/nodes/composite/nodes/node_composite_despeckle.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_colorcorrection.s and ./blender/source/blender/nodes/composite/nodes/node_composite_colorcorrection.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_filter.s and ./blender/source/blender/nodes/composite/nodes/node_composite_filter.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_vecBlur.s and ./blender/source/blender/nodes/composite/nodes/node_composite_vecBlur.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_mixrgb.s and ./blender/source/blender/nodes/composite/nodes/node_composite_mixrgb.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_zcombine.s and ./blender/source/blender/nodes/composite/nodes/node_composite_zcombine.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_directionalblur.s and ./blender/source/blender/nodes/composite/nodes/node_composite_directionalblur.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_valToRgb.s and ./blender/source/blender/nodes/composite/nodes/node_composite_valToRgb.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_bokehimage.s and ./blender/source/blender/nodes/composite/nodes/node_composite_bokehimage.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_rotate.s and ./blender/source/blender/nodes/composite/nodes/node_composite_rotate.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_curves.s and ./blender/source/blender/nodes/composite/nodes/node_composite_curves.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_ellipsemask.s and ./blender/source/blender/nodes/composite/nodes/node_composite_ellipsemask.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_mask.s and ./blender/source/blender/nodes/composite/nodes/node_composite_mask.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_levels.s and ./blender/source/blender/nodes/composite/nodes/node_composite_levels.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_math.s and ./blender/source/blender/nodes/composite/nodes/node_composite_math.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_alphaOver.s and ./blender/source/blender/nodes/composite/nodes/node_composite_alphaOver.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_glare.s and ./blender/source/blender/nodes/composite/nodes/node_composite_glare.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_setalpha.s and ./blender/source/blender/nodes/composite/nodes/node_composite_setalpha.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_colorMatte.s and ./blender/source/blender/nodes/composite/nodes/node_composite_colorMatte.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_doubleEdgeMask.s and ./blender/source/blender/nodes/composite/nodes/node_composite_doubleEdgeMask.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_moviedistortion.s and ./blender/source/blender/nodes/composite/nodes/node_composite_moviedistortion.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_splitViewer.s and ./blender/source/blender/nodes/composite/nodes/node_composite_splitViewer.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_rgb.s and ./blender/source/blender/nodes/composite/nodes/node_composite_rgb.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_crop.s and ./blender/source/blender/nodes/composite/nodes/node_composite_crop.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_cornerpin.s and ./blender/source/blender/nodes/composite/nodes/node_composite_cornerpin.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_sepcombRGBA.s and ./blender/source/blender/nodes/composite/nodes/node_composite_sepcombRGBA.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_stabilize2d.s and ./blender/source/blender/nodes/composite/nodes/node_composite_stabilize2d.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_outputFile.s and ./blender/source/blender/nodes/composite/nodes/node_composite_outputFile.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_distanceMatte.s and ./blender/source/blender/nodes/composite/nodes/node_composite_distanceMatte.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_keyingscreen.s and ./blender/source/blender/nodes/composite/nodes/node_composite_keyingscreen.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_flip.s and ./blender/source/blender/nodes/composite/nodes/node_composite_flip.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_blur.s and ./blender/source/blender/nodes/composite/nodes/node_composite_blur.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_scale.s and ./blender/source/blender/nodes/composite/nodes/node_composite_scale.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_value.s and ./blender/source/blender/nodes/composite/nodes/node_composite_value.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_movieclip.s and ./blender/source/blender/nodes/composite/nodes/node_composite_movieclip.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_mapRange.s and ./blender/source/blender/nodes/composite/nodes/node_composite_mapRange.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_image.s and ./blender/source/blender/nodes/composite/nodes/node_composite_image.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_sunbeams.s and ./blender/source/blender/nodes/composite/nodes/node_composite_sunbeams.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_sepcombYUVA.s and ./blender/source/blender/nodes/composite/nodes/node_composite_sepcombYUVA.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_idMask.s and ./blender/source/blender/nodes/composite/nodes/node_composite_idMask.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_diffMatte.s and ./blender/source/blender/nodes/composite/nodes/node_composite_diffMatte.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_displace.s and ./blender/source/blender/nodes/composite/nodes/node_composite_displace.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_bilateralblur.s and ./blender/source/blender/nodes/composite/nodes/node_composite_bilateralblur.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_mapUV.s and ./blender/source/blender/nodes/composite/nodes/node_composite_mapUV.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_bokehblur.s and ./blender/source/blender/nodes/composite/nodes/node_composite_bokehblur.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_channelMatte.s and ./blender/source/blender/nodes/composite/nodes/node_composite_channelMatte.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_viewer.s and ./blender/source/blender/nodes/composite/nodes/node_composite_viewer.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_inpaint.s and ./blender/source/blender/nodes/composite/nodes/node_composite_inpaint.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_trackpos.s and ./blender/source/blender/nodes/composite/nodes/node_composite_trackpos.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_transform.s and ./blender/source/blender/nodes/composite/nodes/node_composite_transform.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_premulkey.s and ./blender/source/blender/nodes/composite/nodes/node_composite_premulkey.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_normal.s and ./blender/source/blender/nodes/composite/nodes/node_composite_normal.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_translate.s and ./blender/source/blender/nodes/composite/nodes/node_composite_translate.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_chromaMatte.s and ./blender/source/blender/nodes/composite/nodes/node_composite_chromaMatte.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_hueSatVal.s and ./blender/source/blender/nodes/composite/nodes/node_composite_hueSatVal.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_normalize.s and ./blender/source/blender/nodes/composite/nodes/node_composite_normalize.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_tonemap.s and ./blender/source/blender/nodes/composite/nodes/node_composite_tonemap.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_lummaMatte.s and ./blender/source/blender/nodes/composite/nodes/node_composite_lummaMatte.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_gamma.s and ./blender/source/blender/nodes/composite/nodes/node_composite_gamma.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_common.s and ./blender/source/blender/nodes/composite/nodes/node_composite_common.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_composite.s and ./blender/source/blender/nodes/composite/nodes/node_composite_composite.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_sepcombHSVA.s and ./blender/source/blender/nodes/composite/nodes/node_composite_sepcombHSVA.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_brightness.s and ./blender/source/blender/nodes/composite/nodes/node_composite_brightness.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_huecorrect.s and ./blender/source/blender/nodes/composite/nodes/node_composite_huecorrect.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_colorbalance.s and ./blender/source/blender/nodes/composite/nodes/node_composite_colorbalance.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_keying.s and ./blender/source/blender/nodes/composite/nodes/node_composite_keying.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_lensdist.s and ./blender/source/blender/nodes/composite/nodes/node_composite_lensdist.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_pixelate.s and ./blender/source/blender/nodes/composite/nodes/node_composite_pixelate.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_dilate.s and ./blender/source/blender/nodes/composite/nodes/node_composite_dilate.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_mapValue.s and ./blender/source/blender/nodes/composite/nodes/node_composite_mapValue.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_sepcombYCCA.s and ./blender/source/blender/nodes/composite/nodes/node_composite_sepcombYCCA.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_switch.s and ./blender/source/blender/nodes/composite/nodes/node_composite_switch.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_defocus.s and ./blender/source/blender/nodes/composite/nodes/node_composite_defocus.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_boxmask.s and ./blender/source/blender/nodes/composite/nodes/node_composite_boxmask.mod.s
+Comparing ./blender/source/blender/nodes/composite/nodes/node_composite_texture.s and ./blender/source/blender/nodes/composite/nodes/node_composite_texture.mod.s
+Comparing ./blender/source/blender/nodes/shader/node_shader_tree.s and ./blender/source/blender/nodes/shader/node_shader_tree.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_sky.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_sky.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_translucent.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_translucent.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_glossy.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_glossy.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_output_linestyle.s and ./blender/source/blender/nodes/shader/nodes/node_shader_output_linestyle.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_wireframe.s and ./blender/source/blender/nodes/shader/nodes/node_shader_wireframe.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_musgrave.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_musgrave.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_hueSatVal.s and ./blender/source/blender/nodes/shader/nodes/node_shader_hueSatVal.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_volume_absorption.s and ./blender/source/blender/nodes/shader/nodes/node_shader_volume_absorption.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_valToRgb.s and ./blender/source/blender/nodes/shader/nodes/node_shader_valToRgb.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_add_shader.s and ./blender/source/blender/nodes/shader/nodes/node_shader_add_shader.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_toon.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_toon.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_rgb.s and ./blender/source/blender/nodes/shader/nodes/node_shader_rgb.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_wave.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_wave.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_coord.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_coord.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_normal_map.s and ./blender/source/blender/nodes/shader/nodes/node_shader_normal_map.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_particle_info.s and ./blender/source/blender/nodes/shader/nodes/node_shader_particle_info.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_ambient_occlusion.s and ./blender/source/blender/nodes/shader/nodes/node_shader_ambient_occlusion.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_brightness.s and ./blender/source/blender/nodes/shader/nodes/node_shader_brightness.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tangent.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tangent.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_subsurface_scattering.s and ./blender/source/blender/nodes/shader/nodes/node_shader_subsurface_scattering.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_image.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_image.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_blackbody.s and ./blender/source/blender/nodes/shader/nodes/node_shader_blackbody.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_holdout.s and ./blender/source/blender/nodes/shader/nodes/node_shader_holdout.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_diffuse.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_diffuse.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_geometry.s and ./blender/source/blender/nodes/shader/nodes/node_shader_geometry.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_environment.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_environment.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_math.s and ./blender/source/blender/nodes/shader/nodes/node_shader_math.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_script.s and ./blender/source/blender/nodes/shader/nodes/node_shader_script.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_invert.s and ./blender/source/blender/nodes/shader/nodes/node_shader_invert.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_object_info.s and ./blender/source/blender/nodes/shader/nodes/node_shader_object_info.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_normal.s and ./blender/source/blender/nodes/shader/nodes/node_shader_normal.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_wavelength.s and ./blender/source/blender/nodes/shader/nodes/node_shader_wavelength.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_brick.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_brick.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bump.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bump.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_vectMath.s and ./blender/source/blender/nodes/shader/nodes/node_shader_vectMath.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_voronoi.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_voronoi.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_output.s and ./blender/source/blender/nodes/shader/nodes/node_shader_output.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_gradient.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_gradient.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_geom.s and ./blender/source/blender/nodes/shader/nodes/node_shader_geom.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_material.s and ./blender/source/blender/nodes/shader/nodes/node_shader_material.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_output_world.s and ./blender/source/blender/nodes/shader/nodes/node_shader_output_world.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_noise.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_noise.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_velvet.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_velvet.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_sepcombXYZ.s and ./blender/source/blender/nodes/shader/nodes/node_shader_sepcombXYZ.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_lamp.s and ./blender/source/blender/nodes/shader/nodes/node_shader_lamp.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_output_lamp.s and ./blender/source/blender/nodes/shader/nodes/node_shader_output_lamp.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_uvmap.s and ./blender/source/blender/nodes/shader/nodes/node_shader_uvmap.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_checker.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_checker.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_glass.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_glass.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_gamma.s and ./blender/source/blender/nodes/shader/nodes/node_shader_gamma.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_attribute.s and ./blender/source/blender/nodes/shader/nodes/node_shader_attribute.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_tex_magic.s and ./blender/source/blender/nodes/shader/nodes/node_shader_tex_magic.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_transparent.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_transparent.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_anisotropic.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_anisotropic.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_vectTransform.s and ./blender/source/blender/nodes/shader/nodes/node_shader_vectTransform.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_sepcombHSV.s and ./blender/source/blender/nodes/shader/nodes/node_shader_sepcombHSV.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_hair_info.s and ./blender/source/blender/nodes/shader/nodes/node_shader_hair_info.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_squeeze.s and ./blender/source/blender/nodes/shader/nodes/node_shader_squeeze.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_mixRgb.s and ./blender/source/blender/nodes/shader/nodes/node_shader_mixRgb.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_output_material.s and ./blender/source/blender/nodes/shader/nodes/node_shader_output_material.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_light_path.s and ./blender/source/blender/nodes/shader/nodes/node_shader_light_path.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_texture.s and ./blender/source/blender/nodes/shader/nodes/node_shader_texture.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_curves.s and ./blender/source/blender/nodes/shader/nodes/node_shader_curves.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_volume_scatter.s and ./blender/source/blender/nodes/shader/nodes/node_shader_volume_scatter.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_value.s and ./blender/source/blender/nodes/shader/nodes/node_shader_value.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_fresnel.s and ./blender/source/blender/nodes/shader/nodes/node_shader_fresnel.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_mapping.s and ./blender/source/blender/nodes/shader/nodes/node_shader_mapping.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_background.s and ./blender/source/blender/nodes/shader/nodes/node_shader_background.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_camera.s and ./blender/source/blender/nodes/shader/nodes/node_shader_camera.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_refraction.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_refraction.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_emission.s and ./blender/source/blender/nodes/shader/nodes/node_shader_emission.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_mix_shader.s and ./blender/source/blender/nodes/shader/nodes/node_shader_mix_shader.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_hair.s and ./blender/source/blender/nodes/shader/nodes/node_shader_bsdf_hair.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_layer_weight.s and ./blender/source/blender/nodes/shader/nodes/node_shader_layer_weight.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_uvAlongStroke.s and ./blender/source/blender/nodes/shader/nodes/node_shader_uvAlongStroke.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_light_falloff.s and ./blender/source/blender/nodes/shader/nodes/node_shader_light_falloff.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_sepcombRGB.s and ./blender/source/blender/nodes/shader/nodes/node_shader_sepcombRGB.mod.s
+Comparing ./blender/source/blender/nodes/shader/nodes/node_shader_common.s and ./blender/source/blender/nodes/shader/nodes/node_shader_common.mod.s
+Comparing ./blender/source/blender/nodes/shader/node_shader_util.s and ./blender/source/blender/nodes/shader/node_shader_util.mod.s
+Comparing ./blender/source/blender/nodes/texture/node_texture_tree.s and ./blender/source/blender/nodes/texture/node_texture_tree.mod.s
+Comparing ./blender/source/blender/nodes/texture/node_texture_util.s and ./blender/source/blender/nodes/texture/node_texture_util.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_invert.s and ./blender/source/blender/nodes/texture/nodes/node_texture_invert.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_common.s and ./blender/source/blender/nodes/texture/nodes/node_texture_common.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_coord.s and ./blender/source/blender/nodes/texture/nodes/node_texture_coord.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_proc.s and ./blender/source/blender/nodes/texture/nodes/node_texture_proc.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_valToRgb.s and ./blender/source/blender/nodes/texture/nodes/node_texture_valToRgb.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_at.s and ./blender/source/blender/nodes/texture/nodes/node_texture_at.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_hueSatVal.s and ./blender/source/blender/nodes/texture/nodes/node_texture_hueSatVal.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_distance.s and ./blender/source/blender/nodes/texture/nodes/node_texture_distance.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_translate.s and ./blender/source/blender/nodes/texture/nodes/node_texture_translate.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_output.s and ./blender/source/blender/nodes/texture/nodes/node_texture_output.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_valToNor.s and ./blender/source/blender/nodes/texture/nodes/node_texture_valToNor.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_texture.s and ./blender/source/blender/nodes/texture/nodes/node_texture_texture.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_math.s and ./blender/source/blender/nodes/texture/nodes/node_texture_math.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_checker.s and ./blender/source/blender/nodes/texture/nodes/node_texture_checker.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_decompose.s and ./blender/source/blender/nodes/texture/nodes/node_texture_decompose.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_curves.s and ./blender/source/blender/nodes/texture/nodes/node_texture_curves.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_rotate.s and ./blender/source/blender/nodes/texture/nodes/node_texture_rotate.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_compose.s and ./blender/source/blender/nodes/texture/nodes/node_texture_compose.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_image.s and ./blender/source/blender/nodes/texture/nodes/node_texture_image.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_bricks.s and ./blender/source/blender/nodes/texture/nodes/node_texture_bricks.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_mixRgb.s and ./blender/source/blender/nodes/texture/nodes/node_texture_mixRgb.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_scale.s and ./blender/source/blender/nodes/texture/nodes/node_texture_scale.mod.s
+Comparing ./blender/source/blender/nodes/texture/nodes/node_texture_viewer.s and ./blender/source/blender/nodes/texture/nodes/node_texture_viewer.mod.s
+Comparing ./blender/source/creator/creator.s and ./blender/source/creator/creator.mod.s
+Comparing ./blender/extern/libmv/intern/stub.s and ./blender/extern/libmv/intern/stub.mod.s
+Comparing ./blender/extern/rangetree/range_tree_c_api.s and ./blender/extern/rangetree/range_tree_c_api.mod.s
+Comparing ./blender/extern/glew/src/glew.s and ./blender/extern/glew/src/glew.mod.s
+Comparing ./blender/extern/colamd/Source/colamd_global.s and ./blender/extern/colamd/Source/colamd_global.mod.s
+Comparing ./blender/extern/colamd/Source/colamd.s and ./blender/extern/colamd/Source/colamd.mod.s
+Comparing ./blender/extern/wcwidth/wcwidth.s and ./blender/extern/wcwidth/wcwidth.mod.s
+Comparing ./libpng/pngtrans.s and ./libpng/pngtrans.mod.s
+Comparing ./libpng/pngrutil.s and ./libpng/pngrutil.mod.s
+Comparing ./libpng/pngwrite.s and ./libpng/pngwrite.mod.s
+Comparing ./libpng/png.s and ./libpng/png.mod.s
+Comparing ./libpng/pngerror.s and ./libpng/pngerror.mod.s
+Comparing ./libpng/pngrio.s and ./libpng/pngrio.mod.s
+Comparing ./libpng/pngpread.s and ./libpng/pngpread.mod.s
+Comparing ./libpng/pngmem.s and ./libpng/pngmem.mod.s
+Comparing ./libpng/pngwutil.s and ./libpng/pngwutil.mod.s
+Comparing ./libpng/pngget.s and ./libpng/pngget.mod.s
+Comparing ./libpng/pngset.s and ./libpng/pngset.mod.s
+Comparing ./libpng/pngrtran.s and ./libpng/pngrtran.mod.s
+Comparing ./libpng/pngread.s and ./libpng/pngread.mod.s
+Comparing ./libpng/pngwio.s and ./libpng/pngwio.mod.s
+Comparing ./libpng/pngwtran.s and ./libpng/pngwtran.mod.s
+Comparing ./spec_glx.s and ./spec_glx.mod.s
+Comparing ./spec_glu.s and ./spec_glu.mod.s
